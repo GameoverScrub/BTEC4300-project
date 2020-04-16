@@ -1,3 +1,6 @@
+'''
+The annotate.py module contains functions that call external programs blastp,makeblastdb, and prodigal.
+'''
 import subprocess
 import os
 
@@ -6,15 +9,16 @@ from Bio.SeqRecord import SeqRecord
 from Bio.Blast import NCBIXML
 
 
-JUPITER_DIR = os.path.dirname(os.path.realpath(__file__))
+ZEUS_DIR = os.path.dirname(os.path.realpath(__file__))
 PRODIGAL_PROTEINS = 'predicted_proteins.faa'
 PRODIGAL_GENES = 'predicted_genes.txt'
 
 #Directory to hold blast database
-NEW_DB = JUPITER_DIR+'/db/'
+NEW_DB = ZEUS_DIR+'/db/'
 
 def run_prodigal(genome,outdir):
     '''Run prodigal for gene prediction and protein translations.
+
     Argument:
      genome: genome/contig/scaffolds to use as input to prodigal.
              Default, value is the contigs returned from spades.
@@ -30,9 +34,11 @@ def run_prodigal(genome,outdir):
 
 def makeblastdb(dbname,dbseqs):
     '''Create blast database with makeblastdb command from blast+.
+
     Arguments:
      dbname: name for blast database
      dbseqs: name of file makeblastdb will use to build database.
+
     Returns:
      makeblastdb output files in the db directory
     '''
@@ -46,9 +52,11 @@ def makeblastdb(dbname,dbseqs):
 def run_blastp(query,dbname,outdir):
     '''Run blastp command. The query is predicted proteins or other proteins and the database
        is the refseq database, unless a different database is supplied.
+
     Argument:
      query: protein set to search against blast database
      dbname: blast database name
+
     Returns:
      XML file of blast results.
     '''
@@ -64,6 +72,7 @@ def run_blastp(query,dbname,outdir):
 
 def seq_lookup_table(fasta_file):
     '''
+
     '''
     lookup_table = {}
     for record in SeqIO.parse(fasta_file,"fasta"):
@@ -72,6 +81,7 @@ def seq_lookup_table(fasta_file):
 
 def go_through(blast_record):
     '''
+
     '''
     prot_functions = []
     for alignment in blast_record.alignments:
@@ -83,6 +93,7 @@ def go_through(blast_record):
 
 def hits_from_blast_results(result_file):
     '''
+
     '''
     with open(result_file) as blast_file:
         blast_records = NCBIXML.parse(blast_file)
@@ -105,8 +116,8 @@ def label_proteins(predicted_proteins_file,blast_result_file,outfile):
         fasta_id,predicted_function = item
         seq = lookup_table[fasta_id]
         new_record = SeqRecord(
-            id="jupiter{}".format(i),
-            description="jupiter{} {}".format(i,predicted_function),
+            id="zeus{}".format(i),
+            description="zeus{} {}".format(i,predicted_function),
             seq=seq
         )
         annotations.append(new_record)
@@ -127,8 +138,12 @@ def annotate_proteins(genome,outdir,dbname,dbseqs):
     run_blastp(outdir+PRODIGAL_PROTEINS,NEW_DB+dbname,outdir)
     label_proteins(outdir+PRODIGAL_PROTEINS,
                    outdir+"blast_results.xml",
-                   outdir+"jupiter_annotations.faa"
+                   outdir+"zeus_annotations.faa"
                    )
+
+
+
+
 
 
 
