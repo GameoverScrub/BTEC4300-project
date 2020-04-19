@@ -1,0 +1,2102 @@
+>NODE_1_length_1288_cov_0.814815_1 # 3 # 1091 # 1 # ID=1_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.442
+DIFTFYVPHRHVYGEQWSKFMKDGVNATPLPTVNTTGNIEHAAFLGTINPDTNKIPKHLF
+QGYLNIYNNYFKAPGMHDRTEANPNELNQDDARYGFRCCHLKNIWTAPLPPETELSRQMT
+TSTTSIDIMGLQAAYANLHTDQERDYFMQRYHDVLSSFGGKTSYDADNRPLLVMRSNLWA
+SGYDVDGTDQTSLGQFSGRVQQTYKHSVPRFFVPEHGTMFTLALVRFPPTATKEIQYLNA
+KGALTYTDIAGDPVLYGNLPPREISMKDVFRSGDSSKKFKIAEGQWYRYAPSYVSPAYHL
+LEGFPFIQEPPSGDLQERVLIRHHDYDQCFQSVQLLQWNSQVKFNVTVYRNLPTTRDSIM
+TS*
+>NODE_1_length_1288_cov_0.814815_2 # 1157 # 1288 # 1 # ID=1_2;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.485
+MTKRSAVGFLLRSLIMFQTFISRQDRKIGSAGMPRPISYADFCL
+>NODE_2_length_982_cov_1.226901_1 # 428 # 775 # -1 # ID=2_1;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.471
+MTHVFFCVSKNVSVSCAYTQGKREQFSGFNRTLDAINNVFRKFSAFHDETGRLNVDGMNI
+ISNDGSNKLNRSRKARVSYKVQRTINASLNAATSTRAVSSNPNFVTRQKIEIIFG*
+>NODE_2_length_982_cov_1.226901_2 # 772 # 981 # -1 # ID=2_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.481
+LGASLNLRHNLSSSKGPKPLQLKLLTTYIPKTSAFTLAFSTSQRLRTTRASARTFFTFRH
+YITPSARNF*
+>NODE_3_length_953_cov_0.428571_1 # 168 # 284 # 1 # ID=3_1;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.376
+MIFFMVLIKLLPLIGTISGKTVKLMVLALICLGNNSEV*
+>NODE_3_length_953_cov_0.428571_2 # 321 # 617 # 1 # ID=3_2;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.424
+MEAFLWFVLITLLNVPLIIFTLSVSRLLNLLFRLVAFLLFLNPKCLSYISRWITASSAWK
+RFCLFVCRALSSIMVICMLTAIRLLLTFVMSLYLLLRS*
+>NODE_3_length_953_cov_0.428571_3 # 626 # 952 # 1 # ID=3_3;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.459
+MAQCYNVLPQLDINNTIDHRPEGDEKWFLENEKTVTQFCRKLAAERPLKDIRDEYNYPKK
+KGIKDECSRLLEASTMKSRRGFAIQRLMNAMRQAHADGWFIVFDTLTLA
+>NODE_4_length_580_cov_18.187638_1 # 2 # 124 # -1 # ID=4_1;partial=10;start_type=TTG;rbs_motif=TAA;rbs_spacer=12bp;gc_cont=0.496
+MSYTSNLVSAHTLNILEIPPIQRPGTWTVHLRRERRLPCTR
+>NODE_5_length_522_cov_36.220253_1 # 20 # 172 # 1 # ID=5_1;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.621
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTKTARGTYLLPLA*
+>NODE_5_length_522_cov_36.220253_2 # 300 # 449 # 1 # ID=5_2;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.467
+MIWLYRCRGRKRGLHLHTGAIKTVLARDGLPVKIVSMILFDPISIELVF*
+>NODE_5_length_522_cov_36.220253_3 # 433 # 522 # 1 # ID=5_3;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.389
+MNWCFEKLGFYFVFSFGFVNVPESSTDLVT
+>NODE_6_length_420_cov_19.470990_1 # 20 # 232 # 1 # ID=6_1;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.577
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSKSTRTARGTYLLPLACSSSHVIDDI
+VEPKLRDAVY*
+>NODE_6_length_420_cov_19.470990_2 # 251 # 418 # -1 # ID=6_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.530
+NNSTGRPSLASTALTAPVCKYNFFTPPNWSTMWKGLGFLTRRIVTMAPPTSSWSA*
+>NODE_7_length_403_cov_50.195652_1 # 2 # 94 # 1 # ID=7_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.656
+PKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_7_length_403_cov_50.195652_2 # 170 # 403 # -1 # ID=7_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.491
+SYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTALTAPVCQYNFFTPLNWSTMWKGLGF
+LTRRIVTMAPPTSSWSA*
+>NODE_8_length_375_cov_9.701613_1 # 3 # 206 # 1 # ID=8_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.510
+HRVYSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPLNWSTMWKGLGFLTRRIVTMAP
+PTSSWSA*
+>NODE_8_length_375_cov_9.701613_2 # 282 # 374 # -1 # ID=8_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.645
+PKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_9_length_374_cov_35.368421_1 # 3 # 80 # 1 # ID=9_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.641
+RTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_9_length_374_cov_35.368421_2 # 156 # 374 # -1 # ID=9_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.498
+SSDVIHRVYSYRVKNTSNNSTGRPSLASTALTAPVCKYTFFTPLNWSTMWKGLGFLTRRI
+VTMAPPTSSWSA*
+>NODE_10_length_371_cov_32.831967_1 # 3 # 236 # 1 # ID=10_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.496
+SYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTALTAPVGKYNFFTPLNWSTMWKGLGF
+LTRRIVTMAPPTSSWSA*
+>NODE_11_length_355_cov_47.995614_1 # 3 # 206 # 1 # ID=11_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.515
+HRVYSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFPPLNWSTMWKGLGFLTRRIVTMAP
+PTSSWSA*
+>NODE_11_length_355_cov_47.995614_2 # 282 # 353 # -1 # ID=11_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.625
+ASMVPGSRSTRTARGTYLLPLAC*
+>NODE_12_length_352_cov_33.515556_1 # 3 # 170 # 1 # ID=12_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.530
+NNSTGRPSLASTALTAPVCKYNFFTPLNWSTMWNGLGFLTRRIVTMAPPTSSWSA*
+>NODE_12_length_352_cov_33.515556_2 # 246 # 350 # -1 # ID=12_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.657
+RKSWPKGPARTASMVPGSRSTRTARGTSLLPLAC*
+>NODE_13_length_343_cov_25.212963_1 # 3 # 194 # 1 # ID=13_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.521
+SYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPLNWSTMWKGLGFLTRRIVTMAPPTSS
+WSA*
+>NODE_13_length_343_cov_25.212963_2 # 270 # 341 # -1 # ID=13_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.625
+ASMVPGSRSTRTARGTYLLPLAC*
+>NODE_14_length_343_cov_15.013889_1 # 3 # 80 # 1 # ID=14_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.641
+RTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_14_length_343_cov_15.013889_2 # 156 # 341 # -1 # ID=14_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.511
+RVKNTSNNSTGRPSLASTALTAPVCKYNFFTPLNWSTMWKGFGFLTRRIVTMAPPTSSWS
+A*
+>NODE_15_length_341_cov_5.532710_1 # 3 # 149 # 1 # ID=15_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.524
+SLASTALTAPVCKYNFFTPLNWSTMWKGLGFLTRRIVTMAPPTSSWSA*
+>NODE_15_length_341_cov_5.532710_2 # 225 # 341 # -1 # ID=15_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.624
+KLSGRKSWPKGPARTASMVPGSRSTRTARGTYFLPLAC*
+>NODE_16_length_339_cov_1.726415_1 # 3 # 176 # 1 # ID=16_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.523
+TSNNSTGRPSLASTALTAPVCKYNFFTPLNWSTMWKGLGFLTRRIVTMAPPTSSWSA*
+>NODE_16_length_339_cov_1.726415_2 # 252 # 338 # -1 # ID=16_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.655
+GPARTASMVPGSRSTRTARGTSLLPLAC*
+>NODE_17_length_337_cov_19.438095_1 # 2 # 202 # 1 # ID=17_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.512
+RVYSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPLNWSTLWKGLGFLTRRIVTMAPP
+TSSWSA*
+>NODE_18_length_334_cov_17.028986_1 # 3 # 92 # 1 # ID=18_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.656
+KGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_18_length_334_cov_17.028986_2 # 168 # 332 # -1 # ID=18_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.527
+NSTGRPSLASTALTAPVCKYNFFTPLNWSTMWKGLGFLTRRIVTMAPPTSSWSA*
+>NODE_19_length_334_cov_4.748792_1 # 3 # 191 # 1 # ID=19_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.529
+YRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPLNWSTMWQGLGFLTRRIVTMAPPTSSW
+SA*
+>NODE_19_length_334_cov_4.748792_2 # 267 # 332 # -1 # ID=19_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.606
+MVPGSRSTRTARGTYLLPLAC*
+>NODE_20_length_323_cov_33.806122_1 # 1 # 66 # 1 # ID=20_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.606
+MVPGSRSTRTARGTYLLPLAC*
+>NODE_20_length_323_cov_33.806122_2 # 142 # 321 # -1 # ID=20_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.506
+KNTSNNSTGRPSLASTALTAPVCKYNFFTPLNWSTMWKGLGLLTRRIVTMAPPTSSWSA*
+>NODE_21_length_322_cov_18.912821_1 # 1 # 162 # 1 # ID=21_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.525
+STGRPSLASTALTAPVCKYNFFTPLNWSTMWKGLGFLTRRIVKMAPPTSSWSA*
+>NODE_21_length_322_cov_18.912821_2 # 238 # 321 # -1 # ID=21_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.631
+PARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_22_length_319_cov_6.067708_1 # 1 # 144 # 1 # ID=22_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.542
+LASTALTAPVCKYNFFTPLNWSTMWQGLGFLTRRIVTMAPPTSSWSA*
+>NODE_22_length_319_cov_6.067708_2 # 220 # 318 # -1 # ID=22_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.657
+SWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_23_length_317_cov_21.284211_1 # 3 # 182 # 1 # ID=23_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.522
+KNTSNNSTGRPSLASTALTAPVCKYNFFTPLNWSTMWKGLGFLTRRIVTMAPPTSSWSA*
+>NODE_24_length_316_cov_158.608466_1 # 3 # 167 # 1 # ID=24_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.533
+NSTGRPSLASTALTAPVCKYNFFTPLNWSTMWKGLGFLTRRLVTMAPPTSSWSA*
+>NODE_24_length_316_cov_158.608466_2 # 243 # 314 # -1 # ID=24_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.625
+ASMVPGSRSTRTARGTYLLPLAC*
+>NODE_25_length_312_cov_110.227027_1 # 117 # 311 # -1 # ID=25_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.508
+YSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPLNWSTMWKGLGFLTRRIVTMAPPTS
+SWSA*
+>NODE_26_length_310_cov_439.125683_1 # 3 # 137 # 1 # ID=26_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.519
+TALTAPVCKYNFFTPLNWSTMWKGLGFLTRRIVTMAPPTSSWSA*
+>NODE_26_length_310_cov_439.125683_2 # 213 # 308 # -1 # ID=26_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.656
+WPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_27_length_307_cov_71.322222_1 # 3 # 182 # 1 # ID=27_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.522
+KNTSNNSTGRPSLASTALTAPVCKYNFFTPLTWSTMWKGLGFLTRRIVTMAPPTSSWSA*
+>NODE_28_length_302_cov_2.005714_1 # 1 # 144 # 1 # ID=28_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.542
+LASTALTAPVRKYNFFTPLNWSTMWKGLGFLTRRIVTMAPPTSSWSA*
+>NODE_28_length_302_cov_2.005714_2 # 220 # 300 # -1 # ID=28_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.642
+ARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_29_length_298_cov_26.315789_1 # 139 # 297 # -1 # ID=29_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.535
+TGRPSLASTALTAPVCKYNFFTPLNWSTMWKGLGFLTRRIVTLAPPTSSWSA*
+>NODE_30_length_298_cov_16.315789_1 # 3 # 170 # 1 # ID=30_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.530
+NNSTGRPSLASTALTAPVCKYHFFTPLNWSTMWKGLGFLTRRIVTMAPPTSSWSA*
+>NODE_31_length_294_cov_100.101796_1 # 1 # 195 # 1 # ID=31_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.513
+YSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPLNWSTMWTGLGFLTRRIVTMAPPTS
+SWSA*
+>NODE_32_length_293_cov_12.295181_1 # 1 # 144 # 1 # ID=32_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.542
+LASTALTAPVCKYNFFTPLNWSTMWKGLGFLTRRIVTMAPPTSSWSA*
+>NODE_32_length_293_cov_12.295181_2 # 220 # 291 # -1 # ID=32_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.625
+ASMVPGSRSTRTARGTYLLPLAC*
+>NODE_33_length_290_cov_8.484663_1 # 124 # 288 # -1 # ID=33_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.539
+NSTGRPSLASTALTAPVCKYNFFTPLNWSTMWKGLGFLTRRLVTMAPPTSSWSG*
+>NODE_34_length_284_cov_16.242038_1 # 129 # 284 # -1 # ID=34_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.526
+GRPSLASTALTAPVCKYNFFTPLNWSTMWKGLGFLTRRIVTMEPPTSSWSA*
+>NODE_35_length_263_cov_4.742647_1 # 109 # 261 # -1 # ID=35_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.542
+RPSLASTALTAPVCKYNFFTPLNWSTMWKGLGFLTRRIVTMAPPTSSWSA*
+>NODE_36_length_260_cov_16.563910_1 # 1 # 144 # 1 # ID=36_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.542
+LASTALTAPVCKYNFFTPLNWSTMWKGLGFLTRRIVTMAPPTSSWSA*
+>NODE_37_length_258_cov_1.022901_1 # 1 # 132 # 1 # ID=37_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.644
+DWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_38_length_255_cov_215.585938_1 # 114 # 254 # -1 # ID=38_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.539
+ASTALTAPVCKYNFFTPLNWSTMWKGLGFLTRRIVTMAPPTSRWSA*
+>NODE_39_length_255_cov_5.445312_1 # 95 # 253 # -1 # ID=39_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.654
+PLAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_40_length_255_cov_4.781250_1 # 3 # 161 # 1 # ID=40_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.660
+PLAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_41_length_254_cov_25.708661_1 # 81 # 236 # -1 # ID=41_1;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.647
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRATRTARGTYLLPLAC*
+>NODE_42_length_254_cov_14.275591_1 # 90 # 245 # -1 # ID=42_1;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.647
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRAARGTYLLPLAC*
+>NODE_43_length_253_cov_67.619048_1 # 19 # 174 # 1 # ID=43_1;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.647
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_44_length_251_cov_12.056452_1 # 84 # 239 # -1 # ID=44_1;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.647
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSARTARGTYLLPLAC*
+>NODE_45_length_250_cov_22.365854_1 # 1 # 81 # 1 # ID=45_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.531
+DSYNGTSDLQLERMNVYFNEVRSHRP*
+>NODE_45_length_250_cov_22.365854_2 # 119 # 250 # -1 # ID=45_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.644
+DWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_46_length_249_cov_8.278689_1 # 2 # 145 # 1 # ID=46_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.646
+AQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGHTCYR*
+>NODE_47_length_247_cov_23.825000_1 # 80 # 235 # -1 # ID=47_1;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.647
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRPTRTARGTYLLPLAC*
+>NODE_48_length_246_cov_9.033613_1 # 95 # 244 # -1 # ID=48_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.653
+QLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_49_length_245_cov_18.644068_1 # 1 # 90 # 1 # ID=49_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.522
+LNWSTMWKGLGFLTRRIVTMAPPTSSWSA*
+>NODE_49_length_245_cov_18.644068_2 # 166 # 243 # -1 # ID=49_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.628
+RTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_50_length_244_cov_6.811966_1 # 1 # 132 # 1 # ID=50_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.659
+DWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_51_length_242_cov_15.521739_1 # 22 # 240 # 1 # ID=51_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.475
+MGMEHHLSSYLSLSSDVIHRVYSYRVKNTSNHSTGRPSLASTALTAPVCKYNFFTPLNWS
+TMWKGLGFLTRRI
+>NODE_52_length_242_cov_3.904348_1 # 1 # 132 # 1 # ID=52_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.644
+DWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_53_length_236_cov_44.018349_1 # 3 # 236 # -1 # ID=53_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.479
+HHLSSYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLARTALTAPVCKYNFFTPLNWSTMWK
+GLGFLTRRIVTMAPPTSS
+>NODE_54_length_236_cov_36.513761_1 # 3 # 188 # -1 # ID=54_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.468
+MGMEHHLSSYLSLSSDVIHRVSSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPLNWS
+TM
+>NODE_55_length_236_cov_6.422018_1 # 124 # 234 # -1 # ID=55_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.495
+KYNFFTPLTWSTMWKGLGFLTRRIVTMAPPTSSWSA*
+>NODE_56_length_235_cov_37.259259_1 # 2 # 235 # -1 # ID=56_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.466
+EHHLSSYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPLNWSTMW
+KGLGFLTRRIVTMAPPTS
+>NODE_57_length_235_cov_27.962963_1 # 2 # 235 # -1 # ID=57_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.470
+HHLSSYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPLNWSTMWK
+GLGFLTRRIVTMAPPTSS
+>NODE_58_length_235_cov_10.981481_1 # 104 # 235 # -1 # ID=58_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.644
+DWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_59_length_235_cov_4.370370_1 # 3 # 161 # 1 # ID=59_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.660
+PLAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGPRSTRTARGTYLLPLAC*
+>NODE_60_length_234_cov_80.785047_1 # 38 # 232 # -1 # ID=60_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.508
+YSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPLNWSTMWKGLGFLTRRIVTMAPPTS
+SWSA*
+>NODE_61_length_233_cov_5.235849_1 # 80 # 232 # -1 # ID=61_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.654
+AQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSSSTRTARGPYLLPLAC*
+>NODE_62_length_233_cov_3.735849_1 # 49 # 231 # -1 # ID=62_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.596
+PKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTSLLPLACCSGQDIDDIVVKKLRDGVI
+*
+>NODE_63_length_233_cov_3.207547_1 # 11 # 166 # 1 # ID=63_1;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.654
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRPARGTYLLPLAC*
+>NODE_64_length_231_cov_146.519231_1 # 3 # 230 # 1 # ID=64_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.496
+SYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTALTAPVCTYNFFTPLNWSTMWKGLGF
+LTRRIVTMAPPTSSWS
+>NODE_65_length_231_cov_86.192308_1 # 3 # 230 # 1 # ID=65_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.496
+SYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTALTAPACKYNFFTPLNWSTMWKGLGF
+LTRRIVTMAPPTSSWS
+>NODE_66_length_231_cov_46.240385_1 # 3 # 191 # -1 # ID=66_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.471
+MGMEHHLSSYLSLSSDVIHRVHSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPLNWS
+TMW
+>NODE_67_length_231_cov_38.057692_1 # 127 # 231 # -1 # ID=67_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.638
+RKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_68_length_231_cov_5.490385_1 # 80 # 229 # -1 # ID=68_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.653
+QLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSSSTRTARGTYLLPLAC*
+>NODE_69_length_231_cov_3.567308_1 # 3 # 191 # -1 # ID=69_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.476
+MGMEHHLSSYLSLSSDVIHRVHSYRVKNTPNNSTGRPSLASTALTAPVCKYNFFTPLNWS
+TMW
+>NODE_70_length_230_cov_27.271845_1 # 126 # 230 # -1 # ID=70_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.638
+RKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_71_length_230_cov_21.291262_1 # 126 # 230 # -1 # ID=71_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.629
+RKSWPKGPARTASMVPGSRSTRTARGTYFLPLAC*
+>NODE_72_length_230_cov_18.951456_1 # 126 # 230 # -1 # ID=72_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.638
+RKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_73_length_230_cov_14.728155_1 # 1 # 105 # 1 # ID=73_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.657
+RKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_74_length_229_cov_12.039216_1 # 125 # 229 # -1 # ID=74_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.638
+RKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_75_length_229_cov_9.421569_1 # 1 # 105 # 1 # ID=75_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.657
+RKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_76_length_228_cov_26.396040_1 # 1 # 144 # 1 # ID=76_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.542
+LASTALTAPVCKYNFFTPLNWSTLWKGLGFLTRRIVTMAPPTSSWSA*
+>NODE_77_length_228_cov_19.663366_1 # 1 # 105 # 1 # ID=77_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.657
+RKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_78_length_226_cov_36.303030_1 # 3 # 101 # 1 # ID=78_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.657
+SWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_78_length_226_cov_36.303030_2 # 139 # 225 # -1 # ID=78_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.552
+AQASYNGTSDLQLERMNVYFNEVRSHRP*
+>NODE_79_length_226_cov_4.333333_1 # 122 # 226 # -1 # ID=79_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.648
+RKSWPKGPARTASMVPGSRSTRTARGTYLLPRAC*
+>NODE_80_length_225_cov_39.795918_1 # 3 # 224 # 1 # ID=80_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.500
+LSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTALTAPVCKHNFFTPLNWSTMWKGLGFLT
+RRIVTMAPPTSSWS
+>NODE_81_length_224_cov_78.175258_1 # 3 # 98 # 1 # ID=81_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.406
+GMEHHLSSYLSLSSDVIHRVYSYRVKNTSNN*
+>NODE_81_length_224_cov_78.175258_2 # 129 # 224 # 1 # ID=81_2;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.458
+MTAPVCKYNFFTPLNWSTMWKGLGFLTRRIVT
+>NODE_82_length_224_cov_3.237113_1 # 2 # 223 # -1 # ID=82_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.482
+LSSYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTALTAPVRKYNFFTPLNWSTMWKGL
+GFLTRRIVTMAPPT
+>NODE_83_length_223_cov_34.562500_1 # 3 # 221 # 1 # ID=83_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.466
+MEHHLSSYLSLSSDVIHRVYSYRVKNTSNNSPGRPSLASTALTAPVCKYNFFTPLNWSTM
+WKGLGFLTRRIVT
+>NODE_84_length_223_cov_3.812500_1 # 3 # 161 # 1 # ID=84_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.660
+PLAQLLPAPDWPKTKLSGRKSWPKGPARTASLVPGSRSTRTARGTYLLPLAC*
+>NODE_85_length_222_cov_8.673684_1 # 122 # 220 # -1 # ID=85_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.657
+SWPKGPARTASMVPGSRSTRTARGTYLLPLAR*
+>NODE_86_length_221_cov_69.319149_1 # 2 # 172 # -1 # ID=86_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.480
+MGMEHHLSSYLSLSSDVIHRAYSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPL
+>NODE_87_length_221_cov_38.563830_1 # 50 # 220 # 1 # ID=87_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.468
+MGMEHHLSSYLSLSSDVIHRVYSYRFKNTSNNSTGRPSLASTALTAPVCKYNFFTPL
+>NODE_88_length_221_cov_7.446809_1 # 2 # 154 # 1 # ID=88_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.660
+AQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGPYLLPLAC*
+>NODE_89_length_220_cov_25.516129_1 # 3 # 188 # -1 # ID=89_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.457
+MGMEHHLSSYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPLNWS
+TM
+>NODE_90_length_219_cov_93.315217_1 # 3 # 218 # 1 # ID=90_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.486
+SYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTALTAPVRKYNFFTPLNWSTMWKGLGF
+LTRRIVTMAPPT
+>NODE_91_length_219_cov_5.728261_1 # 1 # 81 # 1 # ID=91_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.531
+DSYNGTSDLQLERMNVYFNEVRSHRP*
+>NODE_91_length_219_cov_5.728261_2 # 119 # 217 # -1 # ID=91_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.646
+SWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_92_length_219_cov_4.619565_1 # 3 # 152 # 1 # ID=92_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.653
+QLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_93_length_218_cov_17.373626_1 # 50 # 217 # 1 # ID=93_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.476
+MGMEHHLSSYLSLSPDVIHRVYSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTP
+>NODE_94_length_218_cov_14.219780_1 # 129 # 218 # -1 # ID=94_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.511
+LNWSTMWKGLGFLTRRIVTMAPPTSSWSA*
+>NODE_95_length_217_cov_99.411111_1 # 2 # 217 # 1 # ID=95_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.468
+ATGLGMEHHLSSYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLSSTALTAPVCKYNFFTPL
+NWSTMWKGLGFL
+>NODE_96_length_217_cov_79.244444_1 # 49 # 216 # 1 # ID=96_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.476
+MGMEHHLSSYLSLSSAVIHRVYSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTP
+>NODE_97_length_217_cov_57.533333_1 # 49 # 216 # 1 # ID=97_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.464
+MGMEHHLSSYLSLSSDVIYRVYSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTP
+>NODE_98_length_217_cov_47.866667_1 # 2 # 169 # -1 # ID=98_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.476
+MGMEHHLSSYLSLSSDVIHRGYSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTP
+>NODE_99_length_217_cov_33.077778_1 # 1 # 105 # 1 # ID=99_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+RKSWPKGPARTASMVPGSRSTRTARGTYLFPLAC*
+>NODE_100_length_217_cov_4.011111_1 # 1 # 216 # -1 # ID=100_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.468
+ATGLGMEHHLSSYLSLSSDVIHRVYSYRVTNTSNNSTGRPSLSSTALTAPVCKYNFFTPL
+NWSTMWKGLGFL
+>NODE_101_length_217_cov_3.433333_1 # 1 # 150 # 1 # ID=101_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.653
+QLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTSLLPLAC*
+>NODE_102_length_216_cov_55.539326_1 # 63 # 215 # -1 # ID=102_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.647
+AQLLPAPDWPKTKLSGRKSWPKGPARTASLVPGSRSTRTARGTYLLPLAC*
+>NODE_103_length_216_cov_4.786517_1 # 2 # 154 # 1 # ID=103_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.660
+AQLLPAPDWPKTKLSGRKSWPKGPARTASLVPGSRSTRTARGPYLLPLAC*
+>NODE_104_length_215_cov_8.500000_1 # 84 # 215 # -1 # ID=104_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.629
+DWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_105_length_214_cov_7.931034_1 # 54 # 212 # -1 # ID=105_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.654
+PLAQLLPAPDWPKTKLSGRKSWPKGPARPASMVPGSRSTRTARGTYLLPLAC*
+>NODE_106_length_213_cov_3.534884_1 # 2 # 127 # 1 # ID=106_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.659
+PKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_107_length_212_cov_60.105882_1 # 49 # 210 # 1 # ID=107_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.463
+MGMEHHLSSYLSLSSDVIHRLYSYRVKNTSNNSTGRPSLASTALTAPVCKYNFF
+>NODE_108_length_210_cov_49.951807_1 # 49 # 210 # 1 # ID=108_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.475
+MGMEHHLSSYLSLSSDVLHRVYSYRVKNTSNNSTGRPSLASTALTAPVCKYNFF
+>NODE_109_length_207_cov_13.012500_1 # 2 # 154 # 1 # ID=109_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.660
+AQLLPAPDWPKTKLSGRKSWPKGPARPASMVPGSRSTRTARGPYLLPLAC*
+>NODE_110_length_207_cov_5.500000_1 # 2 # 154 # 1 # ID=110_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.660
+AQLLPAPDWPKTKLSGRKSWPKGPARPASMVPGSRSTRTARGAYLLPLAC*
+>NODE_111_length_206_cov_12.696203_1 # 1 # 132 # 1 # ID=111_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.652
+DWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPQAC*
+>NODE_112_length_206_cov_3.316456_1 # 87 # 206 # -1 # ID=112_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.642
+TKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_113_length_205_cov_6.141026_1 # 54 # 203 # -1 # ID=113_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.653
+QLLPAPDWPKTKLSGRKSWPKGPARPASMVPGSRSTRTARGTYLLPLAC*
+>NODE_114_length_205_cov_3.012821_1 # 1 # 138 # 1 # ID=114_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.674
+APDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPPAC*
+>NODE_115_length_204_cov_74.857143_1 # 51 # 203 # 1 # ID=115_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.477
+MGMEHHLSSYLSFSSDVIHRVYSYRVKNTSNNSTGRPSLASTALTAPVCKY
+>NODE_116_length_204_cov_16.077922_1 # 73 # 204 # -1 # ID=116_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.636
+DWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_117_length_204_cov_3.636364_1 # 3 # 137 # 1 # ID=117_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.674
+PDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_118_length_203_cov_6.500000_1 # 1 # 150 # 1 # ID=118_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.653
+QLLPAPDWPKTKLSGRKSWPKGPARPASMVPGSRSTRTARGTSLLPLAC*
+>NODE_119_length_203_cov_5.907895_1 # 2 # 154 # 1 # ID=119_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.660
+AQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGPYLLPLAC*
+>NODE_120_length_202_cov_3.573333_1 # 1 # 108 # 1 # ID=120_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.676
+GRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_121_length_201_cov_4.418919_1 # 2 # 127 # 1 # ID=121_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.659
+PKTKLSGRKSWPKGPARTASMVPGPRSTRTARGTYLLPLAC*
+>NODE_122_length_200_cov_5.767123_1 # 3 # 161 # 1 # ID=122_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.660
+PLAQLLPAPDWPKTKLSGRKSWPTGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_123_length_199_cov_28.388889_1 # 2 # 199 # 1 # ID=123_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.475
+LSSYLSLSSDVIHRVYSYRVKNTYNNSTGRPSLASTALTAPVCKYNFFTPLNWSTMWKGL
+GFLTRR
+>NODE_124_length_199_cov_22.222222_1 # 126 # 197 # -1 # ID=124_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.625
+ASMVPGSRSTRTARGTYLLPLAC*
+>NODE_125_length_199_cov_3.055556_1 # 50 # 199 # -1 # ID=125_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.640
+QLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTSLLPLAC*
+>NODE_126_length_198_cov_3.028169_1 # 3 # 95 # 1 # ID=126_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+PKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_127_length_197_cov_3.042857_1 # 2 # 154 # 1 # ID=127_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.660
+AQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGPYLLPLAC*
+>NODE_128_length_196_cov_3.710145_1 # 75 # 194 # -1 # ID=128_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.650
+TKLSGRKSWPKGPARTASMVPGPRSTRTARGTYLLPLAC*
+>NODE_129_length_195_cov_61.867647_1 # 3 # 101 # 1 # ID=129_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.657
+SWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_130_length_195_cov_61.411765_1 # 49 # 195 # 1 # ID=130_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.497
+MGMEHHLSSYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTALTAPVC
+>NODE_131_length_195_cov_7.897059_1 # 3 # 185 # 1 # ID=131_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.590
+PKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLACCSGQDIDDIVVKKLRDGVI
+*
+>NODE_132_length_195_cov_4.102941_1 # 14 # 169 # 1 # ID=132_1;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.654
+MAQLLPAPDWPKTKLSGRQSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_133_length_194_cov_5.000000_1 # 17 # 172 # 1 # ID=133_1;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.641
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSPRTARGTYLLPLAC*
+>NODE_134_length_194_cov_4.925373_1 # 2 # 127 # 1 # ID=134_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.659
+PKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_135_length_193_cov_52.500000_1 # 1 # 150 # 1 # ID=135_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.647
+QLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_136_length_193_cov_11.318182_1 # 2 # 154 # 1 # ID=136_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.660
+AQLLPAPDWPKTKLSGRKSWPTGPARTASMVPGSRSTRTARGPYLLPLAC*
+>NODE_137_length_193_cov_3.272727_1 # 1 # 150 # 1 # ID=137_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.653
+QLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTSLLPLAC*
+>NODE_138_length_192_cov_11.553846_1 # 3 # 137 # 1 # ID=138_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.652
+PDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_139_length_191_cov_6.343750_1 # 1 # 138 # 1 # ID=139_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.674
+APDWPKTKLSGRKSWPKGPARPASMVPGSRSTRTARGTYLLPPAC*
+>NODE_140_length_191_cov_5.218750_1 # 23 # 178 # -1 # ID=140_1;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.641
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_141_length_191_cov_5.062500_1 # 2 # 190 # 1 # ID=141_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.524
+YSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPLTWSTMWKGLGFLTRRIVTMAPPTS
+SWS
+>NODE_142_length_191_cov_4.484375_1 # 1 # 117 # 1 # ID=142_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.658
+KLSGRKSWPKGPARTASMVPGPRSTRTARGTYLLPLAC*
+>NODE_143_length_191_cov_3.578125_1 # 3 # 152 # 1 # ID=143_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.653
+QLLPAPDWPKTKLSGRKSWPTGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_144_length_190_cov_4.047619_1 # 3 # 161 # 1 # ID=144_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.660
+PLAQLLPAPDWPKTKLSGRKRWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_145_length_189_cov_160.241935_1 # 3 # 149 # -1 # ID=145_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.497
+MGMEHHLSSYLSLSSDVIHRVYSYRVKNTPNNSTGRPSLASTALTAPVC
+>NODE_146_length_189_cov_8.516129_1 # 59 # 187 # -1 # ID=146_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.550
+ASMVPGSRSTRTARGTYLLPLACRSGQDIDDIVVKKLRDGVI*
+>NODE_147_length_189_cov_6.241935_1 # 3 # 149 # -1 # ID=147_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.503
+MGMEHHLPSYLSLSSDVIHRVYSYRVKNTPNNSTGRPSLASTALTAPVC
+>NODE_148_length_189_cov_4.838710_1 # 1 # 150 # 1 # ID=148_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.653
+QLLPAPDWPKTKLSGRKSWPTGPARTASMVPGSRSTRTARGTSLLPLAC*
+>NODE_149_length_189_cov_4.161290_1 # 2 # 187 # -1 # ID=149_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.505
+HRVYSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPLNWSTMWKGLGFLTRRIVTMAP
+PT
+>NODE_150_length_189_cov_3.096774_1 # 3 # 188 # -1 # ID=150_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.478
+YLSLSSDVIHRVYSYRVKNTPNNSTGRPSLASTALTAPVCKYHFFTPLNWSTMWKGLGFL
+TR
+>NODE_151_length_188_cov_96.180328_1 # 1 # 111 # 1 # ID=151_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.676
+SGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_152_length_188_cov_11.049180_1 # 84 # 188 # -1 # ID=152_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.648
+RKSWPKGPARTASMVPGSRSPRTARGTYLLPLAC*
+>NODE_153_length_188_cov_5.065574_1 # 23 # 178 # -1 # ID=153_1;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.641
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRPARGTYLLPLAC*
+>NODE_154_length_188_cov_3.983607_1 # 1 # 111 # 1 # ID=154_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.676
+SGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_155_length_187_cov_120.283333_1 # 10 # 165 # 1 # ID=155_1;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.647
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRPARGTYLLPLAC*
+>NODE_156_length_187_cov_64.233333_1 # 10 # 165 # 1 # ID=156_1;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.647
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSPRTARGTYLLPLAC*
+>NODE_157_length_187_cov_29.150000_1 # 87 # 185 # -1 # ID=157_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.657
+SWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_158_length_187_cov_7.366667_1 # 3 # 161 # 1 # ID=158_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.660
+PLAQLLPAPDWPKTKLSGRQSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_159_length_187_cov_3.316667_1 # 1 # 108 # 1 # ID=159_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.676
+GRKSWPKGPARTASMVPGSSSTRTARGTYLLPLAC*
+>NODE_161_length_185_cov_324.775862_1 # 2 # 184 # -1 # ID=161_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.497
+RVYSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPLNWSTLWKGLGFLTRRIVTMAPP
+T
+>NODE_162_length_185_cov_5.465517_1 # 2 # 184 # -1 # ID=162_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.503
+RVYSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPLNWSTLWKGLGFLTRRIVTMAPP
+T
+>NODE_163_length_185_cov_3.017241_1 # 3 # 185 # 1 # ID=163_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.596
+LPAPDWPKTKLSGRKSWPTGPARTASMVPGSRSTRTARGTYFLPLACCSGQDIDDIVVKK
+L
+>NODE_164_length_184_cov_5.807018_1 # 68 # 184 # -1 # ID=164_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.641
+KLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_165_length_183_cov_50.946429_1 # 1 # 144 # -1 # ID=165_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.479
+MGMEHHLSSYLSLSSDVIHRVYSYRVKNTYNNSTGRPSLASTALTAPV
+>NODE_166_length_183_cov_38.839286_1 # 1 # 144 # -1 # ID=166_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.493
+MGMEHRLSSYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTALTAPV
+>NODE_167_length_183_cov_14.982143_1 # 3 # 161 # 1 # ID=167_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.648
+PLAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_168_length_183_cov_3.107143_1 # 2 # 181 # 1 # ID=168_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.606
+WPKTKLSGRKSWPKGPARPASMVPGSRSTRTARGTYLLPLACRSGQDIDDIVVKKLRDGV
+>NODE_169_length_183_cov_3.107143_1 # 1 # 144 # -1 # ID=169_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.486
+MGMEHRLSSYLSLSSDVIHRVYSYRVKNTYNNSTGRPSLASTALTAPV
+>NODE_170_length_181_cov_148.981481_1 # 2 # 181 # 1 # ID=170_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.467
+YLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTALTAPVCKYHFFTPLNWSTMWKGLGFL
+>NODE_171_length_181_cov_37.703704_1 # 1 # 180 # -1 # ID=171_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.467
+YLSLSSDVIHRVYSYRVTNTSNNSTGRPSLASTALTAPVCKYNFFTPLNWSTMWKGLGFL
+>NODE_172_length_181_cov_4.870370_1 # 13 # 168 # -1 # ID=172_1;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.654
+MAQLLPAPDWPKTTLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_173_length_181_cov_3.111111_1 # 2 # 154 # 1 # ID=173_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.660
+AQLLPAPDWPKTKLSGRTSWPKGPARTASMVPGSRSTRTARGPYLLPLAC*
+>NODE_174_length_181_cov_3.092593_1 # 2 # 181 # 1 # ID=174_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.472
+YLSLSSDVIHRVYSYRVTNTSNNSTGRPSLASTALTAPVCKYHFFTPLNWSTMWKGLGFL
+>NODE_175_length_180_cov_252.566038_1 # 3 # 179 # 1 # ID=175_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.503
+YSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPLNWSTMWKGLGFLTRRIVTMAPPT
+>NODE_176_length_180_cov_12.943396_1 # 54 # 179 # -1 # ID=176_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.651
+PKTKLSGRKSWPKGPARPASMVPGSRSTRTARGTYLLPLAC*
+>NODE_177_length_180_cov_5.641509_1 # 2 # 154 # 1 # ID=177_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.660
+AQLLPAPDWPKTKLSGRQSWPKGPARTASMVPGSRSTRTARGPYLLPLAC*
+>NODE_178_length_180_cov_3.377358_1 # 12 # 167 # -1 # ID=178_1;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.654
+MAQLLPAPDWPKTQLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_179_length_179_cov_71.442308_1 # 75 # 179 # -1 # ID=179_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.638
+RKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_180_length_179_cov_4.115385_1 # 2 # 178 # 1 # ID=180_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.508
+YSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPLNWSTMWQGLGFLTRRIVTMAPPT
+>NODE_181_length_179_cov_3.826923_1 # 3 # 152 # 1 # ID=181_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.653
+QLLPAPDWPKTKLSGRTSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_182_length_178_cov_13.882353_1 # 1 # 81 # 1 # ID=182_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.531
+DSYNGTSDLQLERMNVYFNEVRSHRP*
+>NODE_183_length_178_cov_5.058824_1 # 3 # 152 # 1 # ID=183_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.653
+QLLPAPDWPKTKLSGRQSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_184_length_177_cov_193.000000_1 # 17 # 175 # -1 # ID=184_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.648
+PLAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_185_length_177_cov_12.040000_1 # 98 # 175 # -1 # ID=185_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.513
+SYNGTSDLQLERMNVYFNEVRSHRP*
+>NODE_186_length_176_cov_172.224490_1 # 2 # 154 # 1 # ID=186_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.654
+AQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGAYLLPLAC*
+>NODE_187_length_176_cov_12.551020_1 # 2 # 154 # 1 # ID=187_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.647
+AQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGPYLLPLAC*
+>NODE_188_length_176_cov_4.897959_1 # 23 # 175 # -1 # ID=188_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.641
+AQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGAYLLPLAC*
+>NODE_189_length_176_cov_3.938776_1 # 3 # 137 # 1 # ID=189_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.674
+PDWPKTKLSGRKSWPTGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_190_length_175_cov_85.875000_1 # 3 # 89 # 1 # ID=190_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.655
+GPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_191_length_175_cov_18.041667_1 # 102 # 173 # -1 # ID=191_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.639
+ASMVPGSRSTRTARGAYLLPLAC*
+>NODE_193_length_175_cov_4.020833_1 # 3 # 161 # 1 # ID=193_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.660
+PLAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_194_length_175_cov_3.333333_1 # 1 # 108 # 1 # ID=194_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.676
+GRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_195_length_175_cov_3.125000_1 # 39 # 173 # -1 # ID=195_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+PDWPKTKLSGRKSWPQGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_196_length_174_cov_296.212766_1 # 3 # 173 # 1 # ID=196_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.509
+YRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPLNWSTMWQGLGFLTRRIVTMAPPT
+>NODE_197_length_174_cov_12.531915_1 # 23 # 172 # -1 # ID=197_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.640
+QLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_198_length_174_cov_6.765957_1 # 2 # 172 # -1 # ID=198_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.515
+YRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPLNWSTMWKGLGFLTRRIVTMAPPT
+>NODE_199_length_174_cov_1.914894_1 # 3 # 116 # 1 # ID=199_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+LSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_200_length_174_cov_1.489362_1 # 1 # 132 # 1 # ID=200_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.652
+DWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_201_length_173_cov_117.804348_1 # 3 # 173 # 1 # ID=201_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.509
+YRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPLNWSTMWKGLGFLTRRIVTMAPPT
+>NODE_203_length_173_cov_8.326087_1 # 3 # 161 # 1 # ID=203_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.660
+PLAQLLPAPDWPKTTLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_204_length_173_cov_5.956522_1 # 68 # 172 # -1 # ID=204_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.657
+RKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_205_length_173_cov_4.760870_1 # 3 # 173 # -1 # ID=205_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.485
+SDVIHRVYSYRVKNTPNNSTGRPSLASTALTAPVCKYNFFTPPNWSTMWKGLGFLTR
+>NODE_206_length_172_cov_28.822222_1 # 68 # 172 # -1 # ID=206_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.648
+RKSWPKGPARTASMVPGSRSTRPARGTYLLPLAC*
+>NODE_207_length_171_cov_173.068182_1 # 20 # 169 # -1 # ID=207_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.647
+QLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSSSTRTARGTYLLPLAC*
+>NODE_208_length_171_cov_71.931818_1 # 11 # 169 # -1 # ID=208_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.648
+PLAQLLPAPDWPKTKLSGRKRWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_209_length_170_cov_63.744186_1 # 1 # 156 # -1 # ID=209_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.487
+MGMEHHLSSSLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTALTAPVCKYN
+>NODE_210_length_170_cov_12.790698_1 # 21 # 170 # -1 # ID=210_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.627
+QLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTSLLPLAC*
+>NODE_211_length_170_cov_9.093023_1 # 54 # 170 # -1 # ID=211_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.641
+KLSGRKSWPKGPARPASMVPGSRSTRTARGTYLLPLAC*
+>NODE_212_length_170_cov_4.023256_1 # 1 # 156 # -1 # ID=212_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.494
+MGMEHHLSSSLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTALTAPVCKYN
+>NODE_213_length_169_cov_68.119048_1 # 20 # 169 # -1 # ID=213_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.633
+QLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_214_length_169_cov_5.404762_1 # 1 # 168 # -1 # ID=214_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.607
+WPKTKLSGRKSWPTGPARTASMVPGSRSTRTARGTYLLPLACRSGQDIDDIVVKKL
+>NODE_215_length_169_cov_4.309524_1 # 3 # 155 # -1 # ID=215_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.497
+MGMEHHLSSHLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTALTAPVCKY
+>NODE_216_length_169_cov_1.714286_1 # 2 # 145 # 1 # ID=216_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.562
+GPARTASMVPGSRSTRTARGTYFLPLACCSGQDIDDIVVKKLRDGVI*
+>NODE_217_length_168_cov_24.243902_1 # 18 # 167 # 1 # ID=217_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.640
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLA
+>NODE_218_length_168_cov_5.853659_1 # 2 # 115 # 1 # ID=218_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+LSGRKSWPKGPARPASMVPGSRSTRTARGTYLLPLAC*
+>NODE_219_length_168_cov_3.634146_1 # 18 # 167 # 1 # ID=219_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.633
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLA
+>NODE_220_length_168_cov_3.219512_1 # 3 # 146 # 1 # ID=220_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.632
+LPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYFLPLAC*
+>NODE_221_length_167_cov_4.850000_1 # 3 # 167 # 1 # ID=221_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.600
+PKTKLSGRKSWPTGPARTASMVPGSRSTRTARGTYLLPLACCSGQDIDDIVVKKL
+>NODE_222_length_167_cov_3.275000_1 # 3 # 167 # 1 # ID=222_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.588
+PKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYFLPLACCSGQDIDDIVVKKL
+>NODE_223_length_166_cov_144.025641_1 # 3 # 146 # -1 # ID=223_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+MAQLLPAPDWPKTKLSGRKSWPQGPARTASMVPGSRSTRTARGTYLLP
+>NODE_224_length_166_cov_90.025641_1 # 2 # 127 # 1 # ID=224_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.659
+PKTKLSGRKSWPTGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_225_length_166_cov_11.128205_1 # 2 # 127 # 1 # ID=225_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.659
+PKTKLSGRKSWPTGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_226_length_166_cov_9.923077_1 # 40 # 165 # -1 # ID=226_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.651
+PKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTSLLPLAC*
+>NODE_227_length_166_cov_9.589744_1 # 13 # 165 # -1 # ID=227_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.654
+AQLLPAPDWPKTTLSGRKSWPKGPARTASMVPGSRSTRTARGPYLLPLAC*
+>NODE_228_length_166_cov_4.564103_1 # 15 # 164 # -1 # ID=228_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.653
+QLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_229_length_166_cov_3.666667_1 # 3 # 164 # 1 # ID=229_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.599
+PKTKLSGRKSWPQGPARTASMVPGSRSTRTARGTYLLPLACCSGQDIDDIVVKK
+>NODE_230_length_166_cov_3.307692_1 # 14 # 166 # 1 # ID=230_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.660
+MAQLLPAPAWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC
+>NODE_231_length_165_cov_77.684211_1 # 49 # 165 # 1 # ID=231_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.444
+MGMEHHLSSYLSLSSDVIHRVYSYRVTNTSNNSTGRPSL
+>NODE_232_length_165_cov_28.631579_1 # 12 # 164 # -1 # ID=232_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.647
+AQLLPAPDWPKTQLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_233_length_165_cov_24.421053_1 # 3 # 164 # -1 # ID=233_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.500
+NTSNNSTGRPSLSSTALTAPVCKYNFFTPLNWSTMWKGLGFLTRRIVTMAPPTS
+>NODE_234_length_165_cov_23.447368_1 # 49 # 165 # -1 # ID=234_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.530
+PGSRSTRTARGTYLLPLACCSGQDIDDIVVKKLRDGVI*
+>NODE_236_length_165_cov_13.263158_1 # 15 # 164 # 1 # ID=236_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.640
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLA
+>NODE_237_length_165_cov_12.421053_1 # 15 # 164 # 1 # ID=237_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.640
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLA
+>NODE_238_length_165_cov_10.763158_1 # 15 # 164 # 1 # ID=238_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.640
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLA
+>NODE_239_length_165_cov_8.657895_1 # 3 # 143 # 1 # ID=239_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.660
+PAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLFPLAC*
+>NODE_240_length_165_cov_6.736842_1 # 15 # 164 # 1 # ID=240_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.633
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLA
+>NODE_241_length_165_cov_4.078947_1 # 2 # 127 # 1 # ID=241_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.659
+PKTKLSGRKSWPQGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_242_length_165_cov_3.947368_1 # 12 # 164 # -1 # ID=242_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.654
+AQLLPAPDWPKTQLSGRKSWPKGPARTASMVPGSRSTRTARGPYLLPLAC*
+>NODE_243_length_164_cov_151.405405_1 # 75 # 164 # -1 # ID=243_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.622
+KGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_244_length_164_cov_127.945946_1 # 3 # 116 # -1 # ID=244_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.421
+MGIEHHLSSYLSLSSDVIHRVYSYRVKNTSNNSTGRPS
+>NODE_245_length_164_cov_85.081081_1 # 15 # 164 # 1 # ID=245_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.493
+MGMEHHLSSHLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTALTAPVCK
+>NODE_246_length_164_cov_28.702703_1 # 75 # 164 # -1 # ID=246_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.633
+KGPARTASMVPGPRSTRTARGTYLLPLAC*
+>NODE_247_length_164_cov_5.486486_1 # 54 # 164 # -1 # ID=247_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.658
+SGRKSWPKGPARPASMVPGSRSTRTARGTYLLPLAC*
+>NODE_248_length_164_cov_4.243243_1 # 13 # 162 # -1 # ID=248_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.653
+QLLPAPDWPKTTLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_249_length_164_cov_3.297297_1 # 75 # 164 # -1 # ID=249_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.633
+KGPARTASMVPGPRSTRTARGTYLLPLAC*
+>NODE_250_length_163_cov_68.305556_1 # 2 # 163 # 1 # ID=250_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.500
+ATGLGMEHHLSSYLSLSSDVIHRVYSYRVTNTSNNSTGRPSLASTALTAPVCKY
+>NODE_251_length_163_cov_45.000000_1 # 27 # 161 # -1 # ID=251_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.652
+PDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_252_length_163_cov_26.138889_1 # 80 # 163 # -1 # ID=252_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.643
+PARTASMVPGSSSTRTARGTYLLPLAC*
+>NODE_253_length_163_cov_5.805556_1 # 3 # 149 # -1 # ID=253_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.503
+MGMEHHLPSYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTALTAPVC
+>NODE_254_length_163_cov_4.166667_1 # 1 # 84 # 1 # ID=254_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+PARTASMVPGSSSTRTARGTYLLPLAC*
+>NODE_255_length_163_cov_3.222222_1 # 27 # 161 # -1 # ID=255_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.659
+PDWPKTKLSGRQSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_256_length_162_cov_109.285714_1 # 3 # 95 # 1 # ID=256_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.656
+PKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_257_length_162_cov_75.714286_1 # 3 # 113 # -1 # ID=257_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.441
+MGMEHHLSSSLSLSSDVIHRVYSYRVKNTSNNSTGRP
+>NODE_258_length_162_cov_20.914286_1 # 3 # 161 # 1 # ID=258_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.478
+YSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPLNWSTMWKGLGFLTRRIV
+>NODE_259_length_162_cov_4.942857_1 # 68 # 160 # -1 # ID=259_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+PKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_260_length_162_cov_3.485714_1 # 2 # 160 # -1 # ID=260_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.478
+YSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPLNWSTMCKGLGFLTRRIV
+>NODE_261_length_162_cov_2.485714_1 # 65 # 160 # -1 # ID=261_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+WPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_262_length_161_cov_269.117647_1 # 49 # 159 # 1 # ID=262_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.441
+MGMDHHLSSYLSLSSDVIHRVYSYRVKNTSNNSTGRP
+>NODE_263_length_161_cov_261.088235_1 # 1 # 159 # -1 # ID=263_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.648
+PLAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGPRSTRTARGTYLLPLAC*
+>NODE_264_length_161_cov_241.647059_1 # 49 # 159 # 1 # ID=264_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.441
+MGMEHPLSSYLSLSSDVIHRVYSYRVKNTSNNSTGRP
+>NODE_265_length_161_cov_158.852941_1 # 3 # 113 # -1 # ID=265_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.441
+MGLEHHLSSYLSLSSDVIHRVYSYRVKNTSNNSTGRP
+>NODE_266_length_161_cov_94.323529_1 # 3 # 113 # -1 # ID=266_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.441
+MGMEHHLSSHLSLSSDVIHRVYSYRVKNTSNNSTGRP
+>NODE_267_length_161_cov_5.588235_1 # 68 # 160 # -1 # ID=267_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.656
+PKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_268_length_161_cov_4.000000_1 # 1 # 108 # 1 # ID=268_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.676
+GRKSWPKGPARPASMVPGSRSTRTARGTYLLPLAC*
+>NODE_269_length_160_cov_121.090909_1 # 10 # 159 # 1 # ID=269_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.647
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLA
+>NODE_270_length_160_cov_69.666667_1 # 3 # 146 # -1 # ID=270_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.653
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLP
+>NODE_271_length_160_cov_29.606061_1 # 23 # 160 # -1 # ID=271_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.652
+APDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPRAC*
+>NODE_272_length_160_cov_13.242424_1 # 1 # 138 # 1 # ID=272_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.659
+APDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPPAC*
+>NODE_273_length_160_cov_3.030303_1 # 23 # 160 # -1 # ID=273_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.645
+APDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPRAC*
+>NODE_274_length_160_cov_2.969697_1 # 1 # 90 # 1 # ID=274_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.567
+DAQASYNGTSDLQLERMNVYFNEVRSHRP*
+>NODE_275_length_159_cov_383.812500_1 # 3 # 158 # 1 # ID=275_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.519
+TSNNSTGRPSLASTALTAPVCKYNFFTPLNWSTMWKGLGFLTRRIVTMAPPT
+>NODE_276_length_159_cov_58.281250_1 # 29 # 157 # 1 # ID=276_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.481
+MGMEHHLSSYLSLSSDVIHRVYSYRVKNTSNNSPGRPSLASTA
+>NODE_277_length_159_cov_23.562500_1 # 3 # 140 # -1 # ID=277_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.652
+MAQLLPAPDWSKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYL
+>NODE_279_length_159_cov_7.406250_1 # 23 # 157 # -1 # ID=279_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.652
+PDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_280_length_159_cov_3.437500_1 # 29 # 157 # 1 # ID=280_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.473
+MWMEHHLSSYLSLSSDVIHRVYSYRVKNTSNNSPGRPSLASTA
+>NODE_281_length_159_cov_3.406250_1 # 27 # 158 # -1 # ID=281_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.659
+DWPKTKLSGRQSWPKGPARTASMVPGSRSTRTARGTYLLPLAR*
+>NODE_282_length_158_cov_260.000000_1 # 1 # 144 # -1 # ID=282_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.493
+MGMEHPLSSYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTALTAPV
+>NODE_283_length_158_cov_216.354839_1 # 1 # 105 # 1 # ID=283_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.657
+RKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_284_length_158_cov_111.290323_1 # 1 # 105 # 1 # ID=284_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+RKSWPKGPARTASMVPGSRSTRTARGTYLLPPAC*
+>NODE_285_length_158_cov_110.419355_1 # 37 # 156 # 1 # ID=285_1;partial=01;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.450
+MEHHLSSYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLAST
+>NODE_286_length_158_cov_66.290323_1 # 1 # 105 # 1 # ID=286_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+RKSWPKGPARTASMVPGSRSTRTARGAYLLPLAC*
+>NODE_287_length_158_cov_12.258065_1 # 2 # 157 # 1 # ID=287_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.494
+SYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPLNWSTMCKGLGFLTRRIV
+>NODE_288_length_158_cov_4.387097_1 # 15 # 158 # 1 # ID=288_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.507
+MGMEHPLSSYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTALTAPV
+>NODE_289_length_158_cov_3.870968_1 # 1 # 156 # 1 # ID=289_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.474
+DVIHRVYSYRFKNTSNNSTGRPSLASTALTAPVCKYNFFTPLTWSTMWKGLG
+>NODE_290_length_158_cov_3.806452_1 # 30 # 128 # -1 # ID=290_1;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.414
+MGMEHHLSSYLSLSSDVIHRVYSYRVKNTSNN*
+>NODE_291_length_158_cov_3.741935_1 # 13 # 156 # -1 # ID=291_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.639
+LPAPDWPKTTLSGRKSWPKGPARTASMVPGSRSTRTARGTYFLPLAC*
+>NODE_292_length_158_cov_3.129032_1 # 39 # 158 # -1 # ID=292_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.642
+TKLSGRKSWPQGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_293_length_157_cov_27.100000_1 # 1 # 108 # 1 # ID=293_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.676
+GRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_294_length_157_cov_3.166667_1 # 50 # 157 # -1 # ID=294_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.657
+GRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_295_length_157_cov_3.100000_1 # 3 # 152 # 1 # ID=295_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.653
+QLLPAPDWPQTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_296_length_156_cov_153.620690_1 # 2 # 142 # -1 # ID=296_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.496
+MGMEHHLPSYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTALTAP
+>NODE_297_length_156_cov_11.689655_1 # 1 # 156 # -1 # ID=297_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.519
+STGRPSLASTALTAPVCKYNFFTPLNWSTMCKGLGFLTRRIVTMAPPTSSWS
+>NODE_298_length_156_cov_3.862069_1 # 6 # 155 # 1 # ID=298_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.647
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLA
+>NODE_299_length_155_cov_236.500000_1 # 1 # 153 # -1 # ID=299_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.654
+LAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC
+>NODE_300_length_155_cov_83.857143_1 # 68 # 154 # -1 # ID=300_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.655
+GPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_301_length_155_cov_76.678571_1 # 11 # 154 # -1 # ID=301_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.569
+GPARTASMVPGSRSTRTARGTYLLPLACCSGQDIDDIVVKKLRDGVI*
+>NODE_302_length_155_cov_56.285714_1 # 23 # 154 # -1 # ID=302_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.652
+DWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAR*
+>NODE_303_length_155_cov_5.142857_1 # 23 # 154 # -1 # ID=303_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.644
+DWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAR*
+>NODE_304_length_155_cov_1.214286_1 # 49 # 153 # 1 # ID=304_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGS
+>NODE_305_length_154_cov_82.777778_1 # 38 # 154 # -1 # ID=305_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.641
+KLSGRKSWPKGPARTASMVPGPRSTRTARGTYLLPLAC*
+>NODE_307_length_154_cov_38.296296_1 # 2 # 127 # 1 # ID=307_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.659
+PKTKLSGRTSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_308_length_154_cov_5.444444_1 # 2 # 127 # 1 # ID=308_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.659
+PKTKLSGRTSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_309_length_154_cov_3.444444_1 # 3 # 152 # 1 # ID=309_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.620
+PKTKLSGRQSWPKGPARTASMVPGSRSTRTARGTYLLPLACCSGQDIDDI
+>NODE_310_length_153_cov_374.807692_1 # 2 # 151 # 1 # ID=310_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.500
+YSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPPNWSTMWKGLGFLTR
+>NODE_311_length_153_cov_164.884615_1 # 3 # 113 # -1 # ID=311_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.441
+MGMEHHLPSYLSLSSDVIHRVYSYRVKNTSNNSTGRP
+>NODE_312_length_153_cov_126.538462_1 # 60 # 152 # -1 # ID=312_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.656
+PKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_313_length_153_cov_5.000000_1 # 15 # 152 # 1 # ID=313_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.493
+MGMDHHLSSYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTALTA
+>NODE_314_length_153_cov_4.038462_1 # 6 # 152 # 1 # ID=314_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.653
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPL
+>NODE_315_length_153_cov_3.346154_1 # 2 # 127 # 1 # ID=315_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.659
+PKTKLSGRQSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_316_length_153_cov_3.192308_1 # 2 # 115 # 1 # ID=316_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+LSGRKSWPQGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_317_length_152_cov_84.600000_1 # 3 # 152 # 1 # ID=317_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.647
+QLLPAPDWPKTKLSGRTSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_318_length_152_cov_82.600000_1 # 2 # 85 # 1 # ID=318_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.655
+PARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_319_length_152_cov_76.080000_1 # 3 # 152 # 1 # ID=319_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.647
+QLLPAPDWPQTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_320_length_152_cov_52.400000_1 # 15 # 152 # -1 # ID=320_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.652
+APDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_321_length_152_cov_3.920000_1 # 1 # 138 # 1 # ID=321_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.674
+APDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPPAC*
+>NODE_322_length_152_cov_3.800000_1 # 2 # 151 # -1 # ID=322_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.627
+WPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLACRSGQDIDD
+>NODE_323_length_151_cov_420.208333_1 # 3 # 149 # 1 # ID=323_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.510
+SYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPLNWSTMWNGLGFLTR
+>NODE_324_length_151_cov_341.250000_1 # 3 # 149 # 1 # ID=324_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.476
+SSDVIHRVYSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPLNWSTM
+>NODE_325_length_151_cov_289.458333_1 # 54 # 149 # -1 # ID=325_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.656
+WPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_326_length_151_cov_96.666667_1 # 3 # 98 # 1 # ID=326_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.656
+WPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_327_length_151_cov_66.583333_1 # 3 # 149 # 1 # ID=327_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.510
+SYRVKNTPNNSTGRPSLASTALTAPVCKYNFFTPLNWSTMWKGLGFLTR
+>NODE_328_length_151_cov_63.000000_1 # 44 # 151 # -1 # ID=328_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.657
+GRKSWPKGPARTASMVPGSSSTRTARGTYLLPLAC*
+>NODE_329_length_151_cov_33.583333_1 # 1 # 150 # -1 # ID=329_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.653
+AQLLPAPAWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC
+>NODE_330_length_151_cov_4.416667_1 # 3 # 98 # 1 # ID=330_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+WPKGPARPASMVPGSRSTRTARGTYLLPLAC*
+>NODE_331_length_151_cov_3.750000_1 # 1 # 150 # -1 # ID=331_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.660
+AQLLPAPAWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGPYLLPLAC
+>NODE_332_length_151_cov_3.625000_1 # 3 # 149 # -1 # ID=332_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.503
+SYRVKNTPNNSTGRPSLASTALTAPVCKYNFFTPLNWSTMWNGLGFLTR
+>NODE_333_length_151_cov_3.083333_1 # 3 # 149 # 1 # ID=333_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.469
+SSDVIHRLYSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPLNWSTM
+>NODE_334_length_150_cov_332.956522_1 # 2 # 148 # 1 # ID=334_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.483
+LSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPLNW
+>NODE_335_length_150_cov_99.043478_1 # 20 # 148 # 1 # ID=335_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.682
+MAQLLPAPDWPQTKLSGRKSWPKGPARTASMVPGSRSTRTARG
+>NODE_336_length_150_cov_6.521739_1 # 2 # 148 # -1 # ID=336_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.633
+PKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLACCSGQDIDD
+>NODE_337_length_150_cov_5.173913_1 # 1 # 138 # 1 # ID=337_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.674
+APDWPKTTLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPPAC*
+>NODE_338_length_150_cov_4.739130_1 # 3 # 149 # 1 # ID=338_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.639
+AQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLA
+>NODE_339_length_149_cov_311.545455_1 # 21 # 149 # 1 # ID=339_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.682
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSSSTRTARG
+>NODE_340_length_149_cov_146.136364_1 # 23 # 148 # -1 # ID=340_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.651
+PKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTSLLPLAC*
+>NODE_341_length_149_cov_117.363636_1 # 1 # 129 # -1 # ID=341_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.682
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARG
+>NODE_342_length_149_cov_112.545455_1 # 21 # 149 # 1 # ID=342_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.682
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARG
+>NODE_343_length_149_cov_92.590909_1 # 3 # 149 # -1 # ID=343_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.476
+SDVIHRVYSYRVKNTPNNSTGRPSLASTALTAPVCKYNFFTPLNWSTMW
+>NODE_344_length_149_cov_70.636364_1 # 2 # 148 # 1 # ID=344_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.646
+AQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLA
+>NODE_346_length_149_cov_23.545455_1 # 1 # 147 # 1 # ID=346_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.463
+DVIHRVYSYRFKNTSNNSTGRPSLASTALTAPVCKYNFFTPLNWSTMWK
+>NODE_347_length_149_cov_20.909091_1 # 23 # 148 # -1 # ID=347_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.635
+PKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_349_length_149_cov_7.454545_1 # 30 # 149 # -1 # ID=349_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.642
+TKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_350_length_149_cov_5.681818_1 # 13 # 147 # -1 # ID=350_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+PDWPKTTLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_351_length_148_cov_489.047619_1 # 3 # 146 # 1 # ID=351_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.493
+RVYSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPLTWSTMWKGLG
+>NODE_352_length_148_cov_194.619048_1 # 1 # 129 # -1 # ID=352_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.659
+MAQLLPAQDWTKTKLSGRKSWPKGPARTASMVPGSRSTRTARG
+>NODE_353_length_148_cov_142.190476_1 # 3 # 134 # -1 # ID=353_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.470
+MGLEHHLSSYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTAL
+>NODE_354_length_148_cov_123.380952_1 # 20 # 148 # 1 # ID=354_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.682
+MAQLLPAPDWPKTKLSGRTSWPKGPARTASMVPGSRSTRTARG
+>NODE_355_length_148_cov_96.428571_1 # 20 # 148 # 1 # ID=355_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+MAQLLPAPDWTKTKLSGRKSWPKGPARTASMVPGSRSTRTARG
+>NODE_356_length_148_cov_92.571429_1 # 1 # 105 # 1 # ID=356_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+RKSWPKGPARTASMVPGSRSTRTARGTSLLPLAC*
+>NODE_357_length_148_cov_90.571429_1 # 1 # 129 # -1 # ID=357_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+MAQLLPAQDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARG
+>NODE_358_length_148_cov_90.333333_1 # 75 # 146 # -1 # ID=358_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.625
+ASMVPGSRSTRTARGTYLLPLAC*
+>NODE_359_length_148_cov_27.761905_1 # 20 # 148 # 1 # ID=359_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.674
+MAHLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARG
+>NODE_360_length_148_cov_10.238095_1 # 15 # 146 # 1 # ID=360_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.485
+MGLEHHLSSYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTAL
+>NODE_361_length_148_cov_6.095238_1 # 1 # 147 # -1 # ID=361_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.653
+AQLLPAQDWTKTKLSGRKSWPKGPARTASMVPGSRSTRTARGPYLLPLA
+>NODE_362_length_148_cov_5.095238_1 # 3 # 122 # 1 # ID=362_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.658
+TKLSGRQSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_363_length_148_cov_4.761905_1 # 1 # 147 # -1 # ID=363_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.660
+AQLLPAQDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGPYLLPLA
+>NODE_364_length_148_cov_3.809524_1 # 1 # 147 # -1 # ID=364_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.660
+AQLLPAPDWTKTKLSGRKSWPKGPARTASMVPGSRSTRTARGPYLLPLA
+>NODE_365_length_147_cov_155.900000_1 # 1 # 105 # 1 # ID=365_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.657
+RKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_366_length_147_cov_153.600000_1 # 23 # 145 # -1 # ID=366_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.650
+KTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLFPLAC*
+>NODE_367_length_147_cov_139.300000_1 # 2 # 145 # -1 # ID=367_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.479
+ATGLGIEHHLSSYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTALT
+>NODE_368_length_147_cov_135.600000_1 # 2 # 145 # -1 # ID=368_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+QLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLA
+>NODE_369_length_147_cov_131.500000_1 # 49 # 147 # 1 # ID=369_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.404
+MWMEHHLSSYLSLSSDVIHRVYSYRVKNTSNNS
+>NODE_370_length_147_cov_115.800000_1 # 3 # 146 # 1 # ID=370_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.618
+KTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLACRSGQDIDD
+>NODE_371_length_147_cov_109.550000_1 # 2 # 94 # 1 # ID=371_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.656
+PKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_372_length_147_cov_100.350000_1 # 80 # 145 # -1 # ID=372_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.606
+MVPGSRSTRTARGTYLLPLAC*
+>NODE_373_length_147_cov_99.450000_1 # 3 # 125 # 1 # ID=373_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.642
+KTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_374_length_147_cov_49.200000_1 # 3 # 146 # 1 # ID=374_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.472
+TGLGMEHHLSSYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTALTA
+>NODE_379_length_147_cov_7.200000_1 # 2 # 145 # -1 # ID=379_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.660
+QLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLA
+>NODE_380_length_147_cov_4.750000_1 # 3 # 146 # 1 # ID=380_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.646
+QLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLA
+>NODE_381_length_147_cov_4.350000_1 # 1 # 147 # 1 # ID=381_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.490
+SDVIHRGYSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPPNWSTMW
+>NODE_382_length_147_cov_4.000000_1 # 3 # 146 # 1 # ID=382_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.472
+ATGLGIEHHLSSYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTALT
+>NODE_383_length_147_cov_3.850000_1 # 54 # 146 # -1 # ID=383_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.656
+PKGPARPASMVPGSRSTRTARGTYLLPLAC*
+>NODE_384_length_147_cov_3.500000_1 # 23 # 145 # -1 # ID=384_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.634
+KTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_385_length_147_cov_3.350000_1 # 3 # 146 # 1 # ID=385_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.479
+TGLGMDHHLSSYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTALTA
+>NODE_386_length_146_cov_569.842105_1 # 2 # 145 # -1 # ID=386_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.646
+AQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGPYLLPL
+>NODE_387_length_146_cov_268.368421_1 # 2 # 145 # 1 # ID=387_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.486
+TGLGMDHHLSSYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTALTA
+>NODE_388_length_146_cov_173.421053_1 # 2 # 97 # -1 # ID=388_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.417
+MGMEHHLSSYLSLSSDVIHRVYSYRVKNTSNN
+>NODE_389_length_146_cov_152.842105_1 # 48 # 146 # -1 # ID=389_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.636
+SWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_390_length_146_cov_139.578947_1 # 1 # 93 # 1 # ID=390_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.656
+PKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_391_length_146_cov_95.894737_1 # 2 # 145 # -1 # ID=391_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.479
+TGLGMEHHLSSYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLARTALTA
+>NODE_392_length_146_cov_35.052632_1 # 1 # 108 # 1 # ID=392_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.676
+GRKSWPQGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_393_length_146_cov_25.052632_1 # 1 # 117 # 1 # ID=393_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.658
+KLSGRKRWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_394_length_146_cov_4.684211_1 # 1 # 120 # 1 # ID=394_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.658
+TKLSGRQSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_395_length_146_cov_3.894737_1 # 1 # 93 # 1 # ID=395_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+PKGPARPASMVPGSRSTRTARGTYLLPLAC*
+>NODE_396_length_146_cov_3.315789_1 # 1 # 108 # 1 # ID=396_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.676
+GRKSWPQGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_397_length_146_cov_3.263158_1 # 2 # 145 # 1 # ID=397_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.493
+TGLGMDHHLSSYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLARTALTA
+>NODE_398_length_146_cov_3.105263_1 # 2 # 145 # 1 # ID=398_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.653
+AHLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGPYLLPL
+>NODE_399_length_146_cov_3.052632_1 # 30 # 146 # -1 # ID=399_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.641
+KLSGRKRWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_402_length_145_cov_470.611111_1 # 15 # 143 # 1 # ID=402_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.481
+MGMEHHLSSYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTA
+>NODE_403_length_145_cov_441.388889_1 # 49 # 144 # 1 # ID=403_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.417
+MGMEHHLSSYLSLSSDVIHRVYSYRVKNTSNN
+>NODE_404_length_145_cov_303.222222_1 # 3 # 143 # 1 # ID=404_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+PAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLFPLAC*
+>NODE_405_length_145_cov_115.722222_1 # 2 # 91 # -1 # ID=405_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.411
+MEHHLSSYLSLSSDVIHRVYSYRVKNTSNN
+>NODE_406_length_145_cov_27.111111_1 # 3 # 143 # 1 # ID=406_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.652
+PAPDWSKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_407_length_145_cov_15.666667_1 # 67 # 144 # 1 # ID=407_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.423
+MGMEHHLSSYLSLSSDVIHRVYSYRV
+>NODE_408_length_145_cov_4.611111_1 # 3 # 131 # -1 # ID=408_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.465
+MWMEHHLSSYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTA
+>NODE_409_length_145_cov_3.888889_1 # 3 # 143 # 1 # ID=409_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.660
+PAPDWSKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLFPLAC*
+>NODE_410_length_144_cov_485.705882_1 # 2 # 142 # -1 # ID=410_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.645
+QLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPL
+>NODE_411_length_144_cov_274.411765_1 # 3 # 143 # -1 # ID=411_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.489
+LSSDVIHRVYSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFPPLNW
+>NODE_412_length_144_cov_214.705882_1 # 23 # 142 # -1 # ID=412_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.642
+TKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_413_length_144_cov_200.823529_1 # 23 # 142 # -1 # ID=413_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.642
+TKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_414_length_144_cov_81.882353_1 # 2 # 142 # 1 # ID=414_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.645
+AQLLPAPDWTKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLP
+>NODE_415_length_144_cov_69.294118_1 # 1 # 144 # 1 # ID=415_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.590
+RKSWPKGPARTASMVPGSRSTRTARGTYLLPLACRSGQDIDDIVVKKL
+>NODE_416_length_144_cov_69.176471_1 # 1 # 144 # -1 # ID=416_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.639
+QLLPAQDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLA
+>NODE_417_length_144_cov_55.176471_1 # 1 # 144 # 1 # ID=417_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.486
+DVIHRAYSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPLNWSTMW
+>NODE_418_length_144_cov_8.882353_1 # 28 # 144 # -1 # ID=418_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.641
+KLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_419_length_144_cov_7.941176_1 # 23 # 142 # -1 # ID=419_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.633
+TKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_420_length_144_cov_5.705882_1 # 23 # 142 # -1 # ID=420_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.633
+TKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_421_length_144_cov_3.588235_1 # 2 # 142 # 1 # ID=421_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.489
+LSSDVLHRVYSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFPPLNW
+>NODE_422_length_144_cov_3.352941_1 # 1 # 144 # 1 # ID=422_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.646
+QLLPAQDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTSLLPLA
+>NODE_423_length_144_cov_3.176471_1 # 1 # 144 # -1 # ID=423_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.493
+DVIHRAYSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPLTWSTMW
+>NODE_424_length_143_cov_266.937500_1 # 39 # 143 # -1 # ID=424_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.638
+RKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_425_length_143_cov_171.687500_1 # 2 # 142 # -1 # ID=425_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.645
+AQLLPAQDWTKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLP
+>NODE_426_length_143_cov_171.562500_1 # 1 # 84 # 1 # ID=426_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.655
+PARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_427_length_143_cov_125.250000_1 # 23 # 142 # -1 # ID=427_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.642
+TKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_428_length_143_cov_118.625000_1 # 2 # 142 # 1 # ID=428_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.475
+YLSLSSDVIHRVYSYRVKNTPNNSTGRPSLASTALTAPVCKYNFFTP
+>NODE_429_length_143_cov_113.500000_1 # 1 # 114 # 1 # ID=429_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.421
+FTATGLGMEHHLSSYLSLSSDVIHRVYSYRVKNTSNN*
+>NODE_430_length_143_cov_65.812500_1 # 23 # 142 # -1 # ID=430_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.642
+TKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_431_length_143_cov_5.437500_1 # 23 # 142 # -1 # ID=431_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.633
+TKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_432_length_143_cov_3.625000_1 # 23 # 142 # -1 # ID=432_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.633
+TKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_433_length_142_cov_668.466667_1 # 3 # 140 # 1 # ID=433_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.493
+YRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPLNWSTMWKGLGFL
+>NODE_434_length_142_cov_439.533333_1 # 3 # 122 # -1 # ID=434_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+MAQLLPAPDWPKTKLSGRKSWPKGPARPASMVPGSRSTRT
+>NODE_435_length_142_cov_301.466667_1 # 3 # 122 # -1 # ID=435_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGPRSTRT
+>NODE_436_length_142_cov_296.733333_1 # 1 # 141 # 1 # ID=436_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.645
+QLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTSLLPL
+>NODE_437_length_142_cov_277.533333_1 # 3 # 122 # -1 # ID=437_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRT
+>NODE_438_length_142_cov_252.133333_1 # 3 # 122 # -1 # ID=438_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+MAQLLPAPDWPKTKLSGRKSWPTGPARTASMVPGSRSTRT
+>NODE_439_length_142_cov_189.000000_1 # 3 # 140 # 1 # ID=439_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.652
+QLLPAPDWPKTKLSGRQSWPKGPARTASMVPGSRSTRTARGTYLLP
+>NODE_440_length_142_cov_169.866667_1 # 2 # 112 # -1 # ID=440_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.432
+MGMEHHLSSYLSLSSDVIHRVYSYRVKNTSNNSTGRP
+>NODE_441_length_142_cov_131.466667_1 # 3 # 140 # 1 # ID=441_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.478
+ATGLWMEHHLSSYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTA
+>NODE_442_length_142_cov_116.333333_1 # 3 # 89 # 1 # ID=442_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.655
+GPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_443_length_142_cov_113.000000_1 # 3 # 122 # -1 # ID=443_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+MAQLLPAPDWPKTKLSGRKRWPKGPARTASMVPGSRSTRT
+>NODE_444_length_142_cov_108.400000_1 # 3 # 122 # -1 # ID=444_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRT
+>NODE_445_length_142_cov_107.000000_1 # 54 # 140 # -1 # ID=445_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.644
+GPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_446_length_142_cov_74.400000_1 # 3 # 140 # 1 # ID=446_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.478
+ATGLGMEHHLSSYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTA
+>NODE_447_length_142_cov_49.200000_1 # 14 # 142 # 1 # ID=447_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.682
+MAQLLPAPAWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARG
+>NODE_448_length_142_cov_47.200000_1 # 14 # 142 # 1 # ID=448_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.682
+MAQLLPAPDWPKTQLSGRKSWPKGPARTASMVPGSRSTRTARG
+>NODE_449_length_142_cov_41.000000_1 # 3 # 140 # 1 # ID=449_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.471
+SSDVIHRLYSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPLNW
+>NODE_452_length_142_cov_7.066667_1 # 23 # 142 # -1 # ID=452_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.625
+TKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_453_length_142_cov_7.000000_1 # 31 # 129 # 1 # ID=453_1;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.404
+MGMEHHLSSYLSLSSDVIHRVYSYRVKNTSNN*
+>NODE_454_length_142_cov_4.600000_1 # 1 # 141 # 1 # ID=454_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.652
+QLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTSLLPL
+>NODE_455_length_142_cov_3.266667_1 # 3 # 140 # 1 # ID=455_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.471
+ATGLWMEHHLSSYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTA
+>NODE_457_length_142_cov_3.066667_1 # 3 # 89 # 1 # ID=457_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+GPARPASMVPGSRSTRTARGTYLLPLAC*
+>NODE_458_length_141_cov_619.285714_1 # 62 # 139 # -1 # ID=458_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.513
+SYNGTSDLQLERMNVYFNEVRSHRP*
+>NODE_459_length_141_cov_166.285714_1 # 3 # 74 # 1 # ID=459_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.625
+ASMVPGSRSTRTARGTYLLPLAC*
+>NODE_460_length_141_cov_155.500000_1 # 20 # 139 # 1 # ID=460_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASLVPGSRSTRT
+>NODE_461_length_141_cov_130.928571_1 # 3 # 113 # -1 # ID=461_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.423
+MWMEHHLSSYLSLSSDVIHRVYSYRVKNTSNNSTGRP
+>NODE_462_length_141_cov_115.071429_1 # 20 # 139 # 1 # ID=462_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.658
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRT
+>NODE_463_length_141_cov_105.785714_1 # 2 # 136 # -1 # ID=463_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.659
+MAHLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTY
+>NODE_464_length_141_cov_104.928571_1 # 2 # 88 # 1 # ID=464_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+GPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_465_length_141_cov_103.928571_1 # 3 # 74 # 1 # ID=465_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.625
+ASMVPGSRSTRTARGTYLLPLAC*
+>NODE_466_length_141_cov_87.071429_1 # 3 # 122 # -1 # ID=466_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRT
+>NODE_467_length_141_cov_80.214286_1 # 2 # 88 # 1 # ID=467_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+GPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_468_length_141_cov_79.571429_1 # 20 # 139 # 1 # ID=468_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.650
+MAHLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRT
+>NODE_469_length_141_cov_75.428571_1 # 2 # 139 # -1 # ID=469_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+QLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLP
+>NODE_470_length_141_cov_72.571429_1 # 68 # 139 # -1 # ID=470_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.639
+ASMVPGSRSTRTARGTYLLPLAC*
+>NODE_471_length_141_cov_53.214286_1 # 68 # 139 # -1 # ID=471_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.639
+ASMVPGSRSTRTARGTYLLPPAC*
+>NODE_472_length_141_cov_47.857143_1 # 68 # 139 # -1 # ID=472_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.639
+ASMVPGSRSTRTARGTSLLPLAC*
+>NODE_473_length_141_cov_40.714286_1 # 2 # 139 # 1 # ID=473_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.587
+GPARTASMVPGSRSTRTARGTYLLPLACRSGQDIDDIVVKKLRDGV
+>NODE_474_length_141_cov_21.071429_1 # 49 # 141 # 1 # ID=474_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.419
+MGMEHHLSSYLSLSSDVIHRVYSYRVKNTSN
+>NODE_475_length_141_cov_4.000000_1 # 2 # 139 # -1 # ID=475_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.645
+LPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYFLPLA
+>NODE_476_length_141_cov_3.714286_1 # 27 # 140 # -1 # ID=476_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.658
+LSGRQSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_477_length_141_cov_3.642857_1 # 2 # 136 # -1 # ID=477_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+MAHLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTY
+>NODE_478_length_140_cov_436.000000_1 # 31 # 138 # 1 # ID=478_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.426
+MGMEHHLSSYLSLSSDVIHRVYSYRVKNTSNNSTGR
+>NODE_479_length_140_cov_253.692308_1 # 1 # 138 # -1 # ID=479_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.659
+PKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLACCSGQD
+>NODE_480_length_140_cov_153.076923_1 # 36 # 140 # -1 # ID=480_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.648
+RKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_481_length_140_cov_119.846154_1 # 31 # 129 # 1 # ID=481_1;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.404
+MGMEHHLSSYLSLSSDVIHRVYSYRVKNTSNN*
+>NODE_482_length_140_cov_115.769231_1 # 40 # 138 # -1 # ID=482_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.657
+SWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_483_length_140_cov_40.769231_1 # 3 # 140 # -1 # ID=483_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.457
+SDVIYRVYSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPLNWS
+>NODE_484_length_140_cov_36.153846_1 # 1 # 138 # 1 # ID=484_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.486
+SDVIHRGYSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPLNWS
+>NODE_485_length_140_cov_24.615385_1 # 2 # 106 # -1 # ID=485_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.438
+MGMEHHLSSYLSLSSDVIHRVYSYRVKNTSNHSTG
+>NODE_486_length_140_cov_21.615385_1 # 2 # 106 # -1 # ID=486_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.429
+MGMEHHLSSYLSLSSDVIHRVYSYRVKNTSNNSTG
+>NODE_488_length_140_cov_6.769231_1 # 1 # 138 # -1 # ID=488_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+PKTTLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLACCSGQD
+>NODE_490_length_140_cov_4.000000_1 # 12 # 110 # -1 # ID=490_1;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.404
+MGMEHHLSSYLSLSSDVIHRVYSYRVKNTSNN*
+>NODE_491_length_140_cov_3.923077_1 # 2 # 106 # -1 # ID=491_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.438
+MGMEHHLSSYLSLSSDVIHRVYSYRVKNTSNHSTG
+>NODE_492_length_140_cov_3.538462_1 # 1 # 138 # 1 # ID=492_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.652
+AQDWTKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPPAC*
+>NODE_493_length_140_cov_3.230769_1 # 3 # 140 # -1 # ID=493_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.464
+SDVIYRVYSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPPNWS
+>NODE_494_length_139_cov_457.250000_1 # 2 # 139 # -1 # ID=494_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.630
+LLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPL
+>NODE_495_length_139_cov_390.666667_1 # 11 # 139 # 1 # ID=495_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.682
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARG
+>NODE_496_length_139_cov_375.250000_1 # 2 # 139 # -1 # ID=496_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.652
+QLLPAPDWPKTKLSGRKSWPKGPARPASMVPGSRSTRTARGTYLLP
+>NODE_497_length_139_cov_337.583333_1 # 1 # 138 # 1 # ID=497_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.652
+QLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLP
+>NODE_498_length_139_cov_324.083333_1 # 1 # 132 # 1 # ID=498_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.659
+DWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_499_length_139_cov_230.333333_1 # 2 # 139 # -1 # ID=499_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.464
+YLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTALTAPVCKYTFFT
+>NODE_500_length_139_cov_210.666667_1 # 3 # 101 # 1 # ID=500_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.657
+SWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_501_length_139_cov_193.416667_1 # 1 # 138 # 1 # ID=501_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.543
+LASTALTAPVCKYNFFTPLNWSTMWKGLGFLTRRIVTMAPPTPSWS
+>NODE_502_length_139_cov_177.250000_1 # 39 # 137 # -1 # ID=502_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.646
+SWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_503_length_139_cov_177.166667_1 # 40 # 138 # -1 # ID=503_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.657
+SWPKGPARTASMVPGSRSTRTARGPYLLPLAC*
+>NODE_504_length_139_cov_141.083333_1 # 3 # 137 # 1 # ID=504_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.585
+SWPKGPARTASMVPGSRSTRTARGTYLLPLACCSGQDIDDIVVKK
+>NODE_505_length_139_cov_85.666667_1 # 2 # 115 # 1 # ID=505_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+LSGRQSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_507_length_139_cov_70.083333_1 # 2 # 139 # -1 # ID=507_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.449
+YLSFSSDVIHRVYSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFT
+>NODE_512_length_139_cov_19.500000_1 # 23 # 139 # -1 # ID=512_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.624
+KLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_513_length_139_cov_9.166667_1 # 1 # 138 # 1 # ID=513_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.652
+LLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPL
+>NODE_514_length_139_cov_8.916667_1 # 13 # 138 # -1 # ID=514_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.651
+PKTTLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_515_length_139_cov_3.500000_1 # 2 # 139 # -1 # ID=515_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.457
+YLSFSSDVIHRVYSYRVKNTSNNSTGRPSLASTALTAPVCKYTFFT
+>NODE_517_length_138_cov_327.545455_1 # 2 # 100 # 1 # ID=517_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.657
+SWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_518_length_138_cov_204.454545_1 # 2 # 136 # -1 # ID=518_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.630
+LPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYFLPL
+>NODE_519_length_138_cov_179.909091_1 # 50 # 136 # -1 # ID=519_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.644
+GPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_520_length_138_cov_178.909091_1 # 65 # 136 # -1 # ID=520_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.625
+ASMVPGSRSTRTARGTYLLPLAC*
+>NODE_521_length_138_cov_176.909091_1 # 33 # 137 # -1 # ID=521_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.657
+RKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_522_length_138_cov_132.090909_1 # 3 # 128 # 1 # ID=522_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.643
+PKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYFLPLAC*
+>NODE_523_length_138_cov_61.090909_1 # 2 # 136 # -1 # ID=523_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.674
+PAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLA
+>NODE_524_length_138_cov_5.818182_1 # 2 # 136 # -1 # ID=524_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.637
+LPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYFLPL
+>NODE_525_length_138_cov_5.636364_1 # 3 # 137 # 1 # ID=525_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+PAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLA
+>NODE_526_length_138_cov_3.909091_1 # 3 # 125 # -1 # ID=526_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTA
+>NODE_527_length_137_cov_520.800000_1 # 23 # 136 # -1 # ID=527_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.649
+LSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_528_length_137_cov_444.400000_1 # 2 # 115 # 1 # ID=528_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.658
+LSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_529_length_137_cov_343.500000_1 # 1 # 132 # 1 # ID=529_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.659
+DWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_530_length_137_cov_315.100000_1 # 21 # 137 # 1 # ID=530_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTR
+>NODE_531_length_137_cov_292.600000_1 # 23 # 136 # -1 # ID=531_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.649
+LSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_532_length_137_cov_284.100000_1 # 3 # 125 # 1 # ID=532_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.650
+KTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPPAC*
+>NODE_533_length_137_cov_270.100000_1 # 3 # 125 # 1 # ID=533_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.650
+KTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_534_length_137_cov_253.000000_1 # 2 # 115 # 1 # ID=534_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+LSGRKSWPKGPARTASMVPGSRSTRTARGPYLLPLAC*
+>NODE_535_length_137_cov_252.800000_1 # 2 # 115 # 1 # ID=535_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.658
+LSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_536_length_137_cov_248.100000_1 # 2 # 127 # 1 # ID=536_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.659
+PKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_537_length_137_cov_234.300000_1 # 11 # 136 # -1 # ID=537_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.651
+PKTKLSGRKSWPKGPARPASMVPGSRSTRTARGTYLLPLAC*
+>NODE_538_length_137_cov_194.600000_1 # 2 # 115 # 1 # ID=538_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+LSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_539_length_137_cov_185.600000_1 # 2 # 136 # 1 # ID=539_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.630
+LSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLACCSGQDIDD
+>NODE_540_length_137_cov_145.800000_1 # 30 # 137 # -1 # ID=540_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.657
+GRKSWPKGPARPASMVPGSRSTRTARGTYLLPLAC*
+>NODE_541_length_137_cov_95.500000_1 # 3 # 89 # 1 # ID=541_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+GPARPASMVPGSRSTRTARGTYLLPLAC*
+>NODE_542_length_137_cov_93.000000_1 # 23 # 136 # -1 # ID=542_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.658
+LSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_543_length_137_cov_85.600000_1 # 23 # 136 # -1 # ID=543_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.640
+LSGRKSWPKGPARTASMVPGSRSTRTARGTYFLPLAC*
+>NODE_544_length_137_cov_32.200000_1 # 1 # 135 # 1 # ID=544_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.489
+SDVLHRVYSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPLNW
+>NODE_545_length_137_cov_6.900000_1 # 23 # 136 # -1 # ID=545_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.640
+LSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_546_length_137_cov_4.100000_1 # 1 # 135 # 1 # ID=546_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.496
+SDVLHRVYSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPPNW
+>NODE_547_length_136_cov_450.666667_1 # 3 # 134 # -1 # ID=547_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.492
+HRVYSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPLNWSTM
+>NODE_548_length_136_cov_345.111111_1 # 3 # 125 # 1 # ID=548_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.650
+KTKLSGRKSWPKGPARTASMVPGSRSTRTARGPYLLPLAC*
+>NODE_549_length_136_cov_298.888889_1 # 3 # 134 # 1 # ID=549_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.674
+PDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC
+>NODE_550_length_136_cov_225.666667_1 # 54 # 134 # -1 # ID=550_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.642
+ARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_551_length_136_cov_211.777778_1 # 20 # 136 # -1 # ID=551_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.641
+KLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_552_length_136_cov_207.000000_1 # 15 # 134 # 1 # ID=552_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.650
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRT
+>NODE_553_length_136_cov_193.222222_1 # 3 # 134 # 1 # ID=553_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.659
+LPAPDWPKTKLSGRKSWPTGPARTASMVPGSRSTRTARGTYLLP
+>NODE_554_length_136_cov_185.111111_1 # 3 # 134 # -1 # ID=554_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+PDWPKTTLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC
+>NODE_555_length_136_cov_149.777778_1 # 1 # 87 # -1 # ID=555_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.437
+MGMEHHLPSYLSLSSDVIHRVYSYRVKNT
+>NODE_556_length_136_cov_122.888889_1 # 3 # 134 # 1 # ID=556_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.492
+YRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPLNWSTMWKGLG
+>NODE_557_length_136_cov_103.333333_1 # 6 # 134 # 1 # ID=557_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.682
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARG
+>NODE_558_length_136_cov_102.777778_1 # 3 # 134 # 1 # ID=558_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.674
+PDWPKTKLSGRKSWPQGPARTASMVPGSRSTRTARGTYLLPLAC
+>NODE_559_length_136_cov_96.444444_1 # 6 # 134 # 1 # ID=559_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.682
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARG
+>NODE_560_length_136_cov_88.111111_1 # 63 # 134 # -1 # ID=560_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.639
+ASMVPGSRSTRTARGPYLLPLAC*
+>NODE_561_length_136_cov_75.666667_1 # 23 # 136 # -1 # ID=561_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.640
+LSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_562_length_136_cov_62.888889_1 # 3 # 74 # 1 # ID=562_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.639
+ASMVPGSRSTRTARGTYLLPLAC*
+>NODE_563_length_136_cov_35.222222_1 # 2 # 88 # -1 # ID=563_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.437
+MGMEHRLSSYLSLSSDVIHRVYSYRVKNT
+>NODE_564_length_136_cov_28.777778_1 # 3 # 134 # 1 # ID=564_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.477
+HRLYSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPLNWSTM
+>NODE_565_length_136_cov_19.777778_1 # 3 # 134 # 1 # ID=565_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.477
+YRFKNTSNNSTGRPSLASTALTAPVCKYNFFTPLNWSTMWKGLG
+>NODE_568_length_136_cov_4.666667_1 # 3 # 134 # 1 # ID=568_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.485
+HRLYSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPLNWSTM
+>NODE_569_length_136_cov_4.000000_1 # 3 # 134 # 1 # ID=569_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.485
+YRFKNTSNNSTGRPSLASTALTAPVCKYNFFTPLNWSTMWKGLG
+>NODE_570_length_136_cov_3.777778_1 # 23 # 136 # -1 # ID=570_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.632
+LSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_571_length_135_cov_52509.500000_1 # 3 # 134 # -1 # ID=571_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.455
+TGLGMEHHLSSYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLAST
+>NODE_572_length_135_cov_48530.125000_1 # 49 # 135 # 1 # ID=572_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.425
+MGMEHHLSSYLSLSSDVIHRVYSYRVKNT
+>NODE_573_length_135_cov_37896.500000_1 # 3 # 134 # -1 # ID=573_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.500
+NTSNNSTGRPSLASTALTAPVCKYNFFTPLNWSTMWKGLGFLTR
+>NODE_574_length_135_cov_613.250000_1 # 2 # 133 # 1 # ID=574_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.492
+VIHRVYSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPLTWS
+>NODE_575_length_135_cov_320.125000_1 # 1 # 135 # -1 # ID=575_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.659
+APDWPKTKLSGRKSWPKGPARPASMVPGSRSTRTARGTYLLPLAC
+>NODE_576_length_135_cov_260.750000_1 # 3 # 122 # -1 # ID=576_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.658
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRT
+>NODE_577_length_135_cov_250.125000_1 # 3 # 122 # -1 # ID=577_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+MAQLLPAPDWPKTTLSGRKSWPKGPARTASMVPGSRSTRT
+>NODE_578_length_135_cov_230.375000_1 # 3 # 122 # -1 # ID=578_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+MAQLLPAPDWPKTKLSGRQSWPKGPARTASMVPGSRSTRT
+>NODE_579_length_135_cov_209.625000_1 # 2 # 133 # -1 # ID=579_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+LPAPDWPKTTLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLP
+>NODE_580_length_135_cov_202.000000_1 # 3 # 68 # 1 # ID=580_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.606
+MVPGSRSTRTARGTYLLPLAC*
+>NODE_581_length_135_cov_200.750000_1 # 3 # 113 # 1 # ID=581_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.676
+SGRKSWPKGPARTASMVPGSRSTRTARGTYLLPPAC*
+>NODE_582_length_135_cov_186.125000_1 # 3 # 113 # 1 # ID=582_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.676
+SGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_583_length_135_cov_134.625000_1 # 2 # 133 # -1 # ID=583_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+LPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLP
+>NODE_584_length_135_cov_80.875000_1 # 3 # 113 # 1 # ID=584_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+SGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_585_length_135_cov_80.000000_1 # 62 # 133 # -1 # ID=585_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.625
+ASMVPGSRSTRTARGTYLLPLAC*
+>NODE_586_length_135_cov_78.250000_1 # 3 # 134 # -1 # ID=586_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.508
+NTSNNSTGRPSLASTALTAPVCKYHFFTPLNWSTMWKGLGFLTR
+>NODE_587_length_135_cov_70.875000_1 # 49 # 135 # 1 # ID=587_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.437
+MGMEHHLSSYLSLSSDVIHRVHSYRVKNT
+>NODE_588_length_135_cov_10.000000_1 # 2 # 133 # 1 # ID=588_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.652
+DWTKTKLSGRKSWPKGPARTASMVPGSRSTRTARGPYLLPLAC*
+>NODE_589_length_135_cov_7.000000_1 # 2 # 133 # 1 # ID=589_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.652
+DWTKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_590_length_135_cov_4.625000_1 # 68 # 133 # -1 # ID=590_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.621
+MVPGSRSTRTARGTYLLPLAC*
+>NODE_591_length_135_cov_3.125000_1 # 23 # 133 # -1 # ID=591_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.649
+SGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_592_length_134_cov_52045.428571_1 # 2 # 106 # -1 # ID=592_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.429
+MGMEHHLSSYLSLSSDVIHRVYSYRVKNTSNNSTG
+>NODE_594_length_134_cov_928.571429_1 # 1 # 129 # -1 # ID=594_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARG
+>NODE_595_length_134_cov_633.571429_1 # 1 # 132 # -1 # ID=595_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.492
+RVYSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPLNWSTMW
+>NODE_596_length_134_cov_567.428571_1 # 13 # 132 # -1 # ID=596_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.642
+TKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_597_length_134_cov_495.857143_1 # 1 # 132 # -1 # ID=597_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.492
+RVYSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPPNWSTMW
+>NODE_598_length_134_cov_461.428571_1 # 1 # 129 # -1 # ID=598_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.682
+MAQLLPAPDWPKTKLSGRKSWPKGPARPASMVPGSRSTRTARG
+>NODE_599_length_134_cov_421.571429_1 # 30 # 134 # -1 # ID=599_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.638
+RKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_600_length_134_cov_416.000000_1 # 1 # 132 # 1 # ID=600_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.659
+DWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPPAC*
+>NODE_601_length_134_cov_378.142857_1 # 3 # 134 # -1 # ID=601_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.644
+DWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_602_length_134_cov_255.571429_1 # 6 # 134 # 1 # ID=602_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.682
+MAQLLPAPDWPKTKLSGRKSWPTGPARTASMVPGSRSTRTARG
+>NODE_603_length_134_cov_240.857143_1 # 1 # 129 # -1 # ID=603_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.682
+MAQLLPAPDWPKTTLSGRKSWPKGPARTASMVPGSRSTRTARG
+>NODE_604_length_134_cov_226.571429_1 # 6 # 134 # 1 # ID=604_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.682
+MAQLLPAPDWPKTKLSGRQSWPKGPARTASMVPGSRSTRTARG
+>NODE_605_length_134_cov_223.142857_1 # 1 # 114 # -1 # ID=605_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+MAQLLPAPDWPKTTLSGRKSWPKGPARTASMVPGSRST
+>NODE_606_length_134_cov_193.285714_1 # 3 # 134 # -1 # ID=606_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.485
+HLSSYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTALTAPAC
+>NODE_607_length_134_cov_174.571429_1 # 3 # 134 # 1 # ID=607_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.674
+PDWPKTKLSGRKSWPTGPARTASMVPGSRSTRTARGTYLLPLAC
+>NODE_608_length_134_cov_149.428571_1 # 6 # 134 # 1 # ID=608_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.682
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASLVPGSRSTRTARG
+>NODE_609_length_134_cov_147.142857_1 # 8 # 133 # -1 # ID=609_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.651
+PKTTLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_610_length_134_cov_123.714286_1 # 40 # 132 # -1 # ID=610_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+PKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_612_length_134_cov_116.428571_1 # 17 # 133 # 1 # ID=612_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSPR
+>NODE_614_length_134_cov_84.857143_1 # 2 # 115 # -1 # ID=614_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRPT
+>NODE_615_length_134_cov_80.571429_1 # 8 # 133 # -1 # ID=615_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.651
+PKTKLSGRKSWPQGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_616_length_134_cov_55.857143_1 # 20 # 133 # -1 # ID=616_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.658
+LSGRKSWPQGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_617_length_134_cov_43.428571_1 # 1 # 114 # -1 # ID=617_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+MAQLLPAPDWPKTQLSGRKSWPKGPARTASMVPGSRST
+>NODE_618_length_134_cov_38.000000_1 # 2 # 133 # 1 # ID=618_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.485
+LSSDVLHRVYSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTP
+>NODE_619_length_134_cov_36.571429_1 # 3 # 134 # 1 # ID=619_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.500
+RGYSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPLNWSTMW
+>NODE_620_length_134_cov_20.142857_1 # 3 # 134 # 1 # ID=620_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.508
+RVYSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPLTWSTMW
+>NODE_621_length_134_cov_5.000000_1 # 3 # 134 # -1 # ID=621_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.492
+HLPSYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTALTAPAC
+>NODE_622_length_134_cov_3.428571_1 # 2 # 115 # -1 # ID=622_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRPT
+>NODE_623_length_134_cov_3.285714_1 # 3 # 134 # 1 # ID=623_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.508
+RGYSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPLNWSTMW
+>NODE_624_length_134_cov_3.142857_1 # 17 # 133 # 1 # ID=624_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSPR
+>NODE_625_length_133_cov_52084.500000_1 # 1 # 132 # -1 # ID=625_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.477
+LSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTALTAPVCKYNFF
+>NODE_626_length_133_cov_41134.166667_1 # 3 # 131 # -1 # ID=626_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.488
+RVKNTSNNSTGRPSLASTALTAPVCKYNFFTPLNWSTMWKGLG
+>NODE_627_length_133_cov_27373.000000_1 # 3 # 131 # -1 # ID=627_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.512
+RPSLASTALTAPVCKYNFFTPLNWSTMWKGLGFLTRRIVTMAP
+>NODE_628_length_133_cov_601.666667_1 # 3 # 131 # 1 # ID=628_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.682
+LAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARG
+>NODE_629_length_133_cov_410.000000_1 # 3 # 131 # 1 # ID=629_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.496
+SYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTALTAPVCKY
+>NODE_630_length_133_cov_321.666667_1 # 23 # 133 # -1 # ID=630_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.649
+SGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_631_length_133_cov_264.000000_1 # 15 # 131 # 1 # ID=631_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.444
+MGMDHHLSSYLSLSSDVIHRVYSYRVKNTSNNSTGRPSL
+>NODE_632_length_133_cov_233.333333_1 # 1 # 114 # -1 # ID=632_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+MAQLLPAPDWPKTKLSGRQSWPKGPARTASMVPGSRST
+>NODE_633_length_133_cov_231.166667_1 # 1 # 132 # -1 # ID=633_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.492
+RVYSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPLNWSTMW
+>NODE_634_length_133_cov_215.166667_1 # 3 # 131 # 1 # ID=634_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+QLLPAPDWPKTTLSGRKSWPKGPARTASMVPGSRSTRTARGTY
+>NODE_635_length_133_cov_208.000000_1 # 1 # 114 # -1 # ID=635_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.658
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRST
+>NODE_636_length_133_cov_190.666667_1 # 6 # 131 # 1 # ID=636_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.659
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTAR
+>NODE_637_length_133_cov_158.166667_1 # 3 # 131 # 1 # ID=637_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.651
+QLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTY
+>NODE_638_length_133_cov_150.666667_1 # 33 # 131 # -1 # ID=638_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.657
+SWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_639_length_133_cov_118.833333_1 # 1 # 84 # 1 # ID=639_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+PARTASMVPGSRSTRTARGPYLLPLAC*
+>NODE_640_length_133_cov_95.333333_1 # 66 # 131 # -1 # ID=640_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.621
+MVPGSRSTRTARGTYLLPLAC*
+>NODE_641_length_133_cov_95.000000_1 # 1 # 132 # 1 # ID=641_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+APDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPQA
+>NODE_642_length_133_cov_71.166667_1 # 1 # 66 # 1 # ID=642_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.606
+MVPGSRSTRTARGTYLLPLAC*
+>NODE_643_length_133_cov_63.500000_1 # 1 # 84 # 1 # ID=643_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+PARTASMVPGSRSTRTARGTSLLPLAC*
+>NODE_644_length_133_cov_51.500000_1 # 20 # 133 # 1 # ID=644_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+MAQLLPAPAWPKTKLSGRKSWPKGPARTASMVPGSRST
+>NODE_645_length_133_cov_11.333333_1 # 1 # 111 # 1 # ID=645_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.658
+SGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_646_length_133_cov_7.000000_1 # 1 # 132 # 1 # ID=646_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+APDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPPA
+>NODE_647_length_133_cov_6.000000_1 # 12 # 131 # -1 # ID=647_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.650
+TKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_648_length_133_cov_3.333333_1 # 1 # 132 # 1 # ID=648_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.659
+APDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPQA
+>NODE_649_length_132_cov_50439.800000_1 # 40 # 132 # 1 # ID=649_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.419
+MGMEHHLSSYLSLSSDVIHRVYSYRVKNTSN
+>NODE_650_length_132_cov_47999.000000_1 # 3 # 131 # -1 # ID=650_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.488
+VIHRVYSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPLNW
+>NODE_651_length_132_cov_45303.400000_1 # 3 # 131 # -1 # ID=651_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.481
+RVYSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPLNWSTM
+>NODE_652_length_132_cov_19587.600000_1 # 2 # 130 # -1 # ID=652_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+PAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLP
+>NODE_654_length_132_cov_968.800000_1 # 3 # 122 # -1 # ID=654_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.650
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRT
+>NODE_655_length_132_cov_774.800000_1 # 2 # 130 # -1 # ID=655_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.659
+PAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLP
+>NODE_656_length_132_cov_580.200000_1 # 2 # 130 # 1 # ID=656_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.496
+VIHRVYSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPPNW
+>NODE_657_length_132_cov_513.400000_1 # 3 # 131 # -1 # ID=657_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.465
+YSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPLNWSTMWQ
+>NODE_658_length_132_cov_512.600000_1 # 2 # 130 # -1 # ID=658_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.674
+QLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTY
+>NODE_659_length_132_cov_464.600000_1 # 2 # 130 # -1 # ID=659_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.473
+EHHLSSYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTALTA
+>NODE_660_length_132_cov_447.600000_1 # 1 # 132 # 1 # ID=660_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.500
+HHLSSYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTALTAPV
+>NODE_661_length_132_cov_431.400000_1 # 2 # 130 # 1 # ID=661_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.504
+LSSYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTALTAPVC
+>NODE_662_length_132_cov_407.800000_1 # 3 # 131 # -1 # ID=662_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.651
+WPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGPYLLPLAC*
+>NODE_663_length_132_cov_352.800000_1 # 13 # 132 # -1 # ID=663_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.633
+TKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_664_length_132_cov_270.400000_1 # 2 # 88 # 1 # ID=664_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.655
+GPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_665_length_132_cov_251.800000_1 # 11 # 130 # -1 # ID=665_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.650
+TKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_666_length_132_cov_236.800000_1 # 2 # 130 # 1 # ID=666_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+DWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTSLLPLAC
+>NODE_667_length_132_cov_235.000000_1 # 1 # 120 # 1 # ID=667_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.658
+TKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_668_length_132_cov_209.000000_1 # 2 # 130 # 1 # ID=668_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.481
+YSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPLNWSTMWK
+>NODE_669_length_132_cov_195.600000_1 # 2 # 130 # -1 # ID=669_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.674
+PDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLA
+>NODE_670_length_132_cov_190.400000_1 # 3 # 113 # 1 # ID=670_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.676
+SGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_671_length_132_cov_185.200000_1 # 2 # 130 # 1 # ID=671_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.659
+WPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLACR
+>NODE_672_length_132_cov_172.400000_1 # 2 # 130 # 1 # ID=672_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.504
+LSSYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTALTAPVR
+>NODE_673_length_132_cov_158.600000_1 # 15 # 131 # 1 # ID=673_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.658
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTR
+>NODE_674_length_132_cov_155.800000_1 # 6 # 131 # -1 # ID=674_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.651
+PKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_675_length_132_cov_154.800000_1 # 2 # 127 # 1 # ID=675_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.659
+PKTKLSGRKSWPKGPARTASMVPGPRSTRTARGTYLLPLAC*
+>NODE_676_length_132_cov_147.600000_1 # 2 # 130 # 1 # ID=676_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+DWPKTKLSGRQSWPKGPARTASMVPGSRSTRTARGTYLLPLAC
+>NODE_677_length_132_cov_136.800000_1 # 2 # 79 # 1 # ID=677_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.641
+RTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_678_length_132_cov_135.800000_1 # 2 # 130 # 1 # ID=678_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.504
+LSSYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTALTAPVG
+>NODE_679_length_132_cov_129.000000_1 # 2 # 130 # -1 # ID=679_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.659
+PAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLP
+>NODE_680_length_132_cov_122.800000_1 # 2 # 127 # 1 # ID=680_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.659
+PKTKLSGRQSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_681_length_132_cov_122.600000_1 # 11 # 130 # -1 # ID=681_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.650
+TKLSGRKSWPKGPARTASMVPGPRSTRTARGTYLLPLAC*
+>NODE_682_length_132_cov_115.800000_1 # 13 # 132 # -1 # ID=682_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.642
+TKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_683_length_132_cov_109.800000_1 # 3 # 113 # -1 # ID=683_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.658
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRS
+>NODE_684_length_132_cov_107.400000_1 # 3 # 131 # -1 # ID=684_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.488
+SYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTALTAPVCKH
+>NODE_685_length_132_cov_95.800000_1 # 3 # 131 # 1 # ID=685_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.659
+PDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLA
+>NODE_686_length_132_cov_94.000000_1 # 13 # 132 # -1 # ID=686_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.642
+TKLSGRQSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_687_length_132_cov_88.800000_1 # 3 # 131 # -1 # ID=687_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.488
+SHLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTALTAPVCKY
+>NODE_688_length_132_cov_78.800000_1 # 2 # 79 # 1 # ID=688_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.654
+RPASMVPGSRSTRTARGTYLLPLAC*
+>NODE_689_length_132_cov_77.200000_1 # 2 # 130 # -1 # ID=689_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.465
+MEHHLSSYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTALT
+>NODE_691_length_132_cov_63.400000_1 # 1 # 120 # 1 # ID=691_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.658
+TKLSGRKSWPQGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_692_length_132_cov_48.600000_1 # 2 # 127 # 1 # ID=692_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.659
+PQTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_693_length_132_cov_40.800000_1 # 3 # 131 # 1 # ID=693_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.659
+HLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTY
+>NODE_694_length_132_cov_31.600000_1 # 20 # 130 # 1 # ID=694_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.640
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRS
+>NODE_695_length_132_cov_14.000000_1 # 3 # 131 # 1 # ID=695_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+PDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLA
+>NODE_696_length_132_cov_7.000000_1 # 3 # 131 # 1 # ID=696_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+PDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLA
+>NODE_697_length_132_cov_6.000000_1 # 2 # 127 # 1 # ID=697_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.659
+PQTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_698_length_132_cov_6.000000_1 # 3 # 131 # 1 # ID=698_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+HLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTY
+>NODE_699_length_132_cov_5.000000_1 # 13 # 132 # -1 # ID=699_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.642
+TTLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_700_length_132_cov_5.000000_1 # 3 # 131 # 1 # ID=700_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+PDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLA
+>NODE_701_length_132_cov_4.200000_1 # 2 # 79 # 1 # ID=701_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.654
+RPASMVPGSRSTRTARGTYLLPLAC*
+>NODE_702_length_132_cov_4.000000_1 # 3 # 131 # -1 # ID=702_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.504
+LPSYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTALTAPVR
+>NODE_703_length_132_cov_4.000000_1 # 3 # 131 # -1 # ID=703_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.643
+WTKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLACR
+>NODE_704_length_132_cov_4.000000_1 # 3 # 131 # 1 # ID=704_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.674
+QLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTY
+>NODE_705_length_132_cov_3.800000_1 # 1 # 132 # 1 # ID=705_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.492
+SAVIHRVYSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPPN
+>NODE_706_length_132_cov_3.800000_1 # 3 # 131 # -1 # ID=706_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.496
+SHLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTALTAPVCKH
+>NODE_707_length_132_cov_3.600000_1 # 15 # 131 # 1 # ID=707_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.658
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTR
+>NODE_708_length_132_cov_3.200000_1 # 2 # 130 # 1 # ID=708_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.512
+LPSYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTALTAPVG
+>NODE_709_length_131_cov_52247.000000_1 # 3 # 110 # -1 # ID=709_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.417
+MGMEHHLSSYLSLSSDVIHRVYSYRVKNTSNNSTGR
+>NODE_710_length_131_cov_40322.500000_1 # 1 # 129 # -1 # ID=710_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.481
+KNTSNNSTGRPSLASTALTAPVCKYNFFTPLNWSTMWKGLGFL
+>NODE_711_length_131_cov_25060.250000_1 # 1 # 129 # -1 # ID=711_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.512
+SLASTALTAPVCKYNFFTPLNWSTMWKGLGFLTRRIVTMAPPT
+>NODE_712_length_131_cov_22560.750000_1 # 3 # 122 # -1 # ID=712_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.658
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRT
+>NODE_713_length_131_cov_8570.750000_1 # 44 # 130 # -1 # ID=713_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.644
+GPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_714_length_131_cov_8028.250000_1 # 48 # 131 # -1 # ID=714_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.631
+PARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_715_length_131_cov_7076.000000_1 # 54 # 131 # -1 # ID=715_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.615
+RTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_716_length_131_cov_6448.000000_1 # 60 # 131 # -1 # ID=716_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.597
+ASMVPGSRSTRTARGTYLLPLAC*
+>NODE_717_length_131_cov_820.500000_1 # 3 # 131 # -1 # ID=717_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.643
+QLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTY
+>NODE_718_length_131_cov_698.250000_1 # 3 # 131 # 1 # ID=718_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.659
+PDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLA
+>NODE_719_length_131_cov_616.500000_1 # 1 # 129 # -1 # ID=719_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.481
+DVIHRVYSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPPN
+>NODE_720_length_131_cov_389.250000_1 # 1 # 105 # 1 # ID=720_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.657
+RKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_721_length_131_cov_312.750000_1 # 3 # 122 # -1 # ID=721_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRT
+>NODE_722_length_131_cov_307.250000_1 # 14 # 130 # 1 # ID=722_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTR
+>NODE_723_length_131_cov_261.750000_1 # 1 # 129 # -1 # ID=723_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.496
+HRVYSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPLNWST
+>NODE_724_length_131_cov_246.750000_1 # 27 # 131 # -1 # ID=724_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.638
+RKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_725_length_131_cov_235.500000_1 # 2 # 130 # -1 # ID=725_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.496
+SSYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTALTAPVCQ
+>NODE_726_length_131_cov_222.500000_1 # 1 # 105 # 1 # ID=726_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+RKSWPKGPARTASMVPGSRSTRTARGPYLLPLAC*
+>NODE_727_length_131_cov_216.750000_1 # 1 # 105 # 1 # ID=727_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.657
+RKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_728_length_131_cov_205.500000_1 # 1 # 129 # 1 # ID=728_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+QLLPAPDWPKTKLSGRKSWPTGPARTASMVPGSRSTRTARGTY
+>NODE_729_length_131_cov_185.500000_1 # 17 # 130 # -1 # ID=729_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.658
+LSGRKSWPKGPARPASMVPGSRSTRTARGTYLLPLAC*
+>NODE_730_length_131_cov_176.250000_1 # 3 # 131 # -1 # ID=730_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.636
+DWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYFLPLAC
+>NODE_731_length_131_cov_168.250000_1 # 1 # 105 # 1 # ID=731_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+RKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_732_length_131_cov_166.000000_1 # 1 # 129 # 1 # ID=732_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.612
+RKSWPKGPARTASMVPGSRSTRTARGTYLLPLACCSGQDIDDI
+>NODE_733_length_131_cov_160.500000_1 # 3 # 131 # 1 # ID=733_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.674
+PDWPKTKLSGRQSWPKGPARTASMVPGSRSTRTARGTYLLPLA
+>NODE_734_length_131_cov_156.000000_1 # 1 # 129 # -1 # ID=734_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.659
+QDWTKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLA
+>NODE_735_length_131_cov_155.250000_1 # 27 # 131 # -1 # ID=735_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.648
+RKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_736_length_131_cov_153.750000_1 # 2 # 130 # -1 # ID=736_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.496
+LPSYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTALTAPVC
+>NODE_737_length_131_cov_148.000000_1 # 27 # 131 # -1 # ID=737_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.638
+RKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_738_length_131_cov_145.500000_1 # 1 # 78 # 1 # ID=738_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.641
+RTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_739_length_131_cov_143.750000_1 # 2 # 115 # -1 # ID=739_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.658
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRST
+>NODE_740_length_131_cov_135.500000_1 # 1 # 129 # -1 # ID=740_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.496
+SYLSLSSDVIHRVYSYRVKNTPNNSTGRPSLASTALTAPVCKY
+>NODE_741_length_131_cov_134.000000_1 # 2 # 88 # 1 # ID=741_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+GPARTASMVPGSRSTRTARGPYLLPLAC*
+>NODE_742_length_131_cov_126.250000_1 # 3 # 98 # 1 # ID=742_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+WPKGPARPASMVPGSRSTRTARGTYLLPLAC*
+>NODE_743_length_131_cov_111.750000_1 # 1 # 93 # 1 # ID=743_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+PKGPARPASMVPGSRSTRTARGTYLLPLAC*
+>NODE_744_length_131_cov_100.000000_1 # 54 # 131 # -1 # ID=744_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.628
+RTASMVPGSRSTRTARGPYLLPLAC*
+>NODE_745_length_131_cov_100.000000_1 # 2 # 130 # -1 # ID=745_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.674
+AQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGT
+>NODE_747_length_131_cov_91.500000_1 # 2 # 130 # 1 # ID=747_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.682
+AQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGT
+>NODE_748_length_131_cov_79.750000_1 # 2 # 130 # -1 # ID=748_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.659
+AQLLPAQDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGT
+>NODE_749_length_131_cov_77.250000_1 # 2 # 130 # -1 # ID=749_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.496
+SSYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTALTAPVCK
+>NODE_750_length_131_cov_76.250000_1 # 27 # 131 # -1 # ID=750_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.648
+RKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_751_length_131_cov_70.000000_1 # 1 # 129 # -1 # ID=751_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+PDWTKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLA
+>NODE_752_length_131_cov_57.500000_1 # 1 # 78 # 1 # ID=752_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.654
+RTASMVPGSRSTRTARGTSLLPLAC*
+>NODE_754_length_131_cov_36.500000_1 # 23 # 130 # -1 # ID=754_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.657
+GRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_755_length_131_cov_34.250000_1 # 1 # 129 # -1 # ID=755_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.465
+SSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPLNWSTMWK
+>NODE_756_length_131_cov_30.250000_1 # 27 # 131 # -1 # ID=756_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.648
+RKSWPKGPARTASMVPGSRSTRTARGTYLLPLAR*
+>NODE_757_length_131_cov_28.000000_1 # 17 # 130 # 1 # ID=757_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSA
+>NODE_758_length_131_cov_11.500000_1 # 2 # 118 # -1 # ID=758_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTR
+>NODE_759_length_131_cov_8.500000_1 # 1 # 129 # -1 # ID=759_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.457
+YSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPLNWSTMCK
+>NODE_760_length_131_cov_7.000000_1 # 2 # 130 # 1 # ID=760_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.504
+SSYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTALTAPVCQ
+>NODE_761_length_131_cov_4.000000_1 # 2 # 115 # -1 # ID=761_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSA
+>NODE_762_length_131_cov_4.000000_1 # 1 # 129 # -1 # ID=762_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.659
+QDWTKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLA
+>NODE_763_length_131_cov_3.750000_1 # 1 # 129 # -1 # ID=763_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+PDWTKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLA
+>NODE_764_length_131_cov_3.500000_1 # 1 # 129 # -1 # ID=764_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.465
+SSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPLNWSTMCK
+>NODE_765_length_131_cov_3.250000_1 # 2 # 109 # 1 # ID=765_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.657
+GRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_766_length_130_cov_53787.666667_1 # 3 # 128 # -1 # ID=766_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.460
+MEHHLSSYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTAL
+>NODE_767_length_130_cov_53775.666667_1 # 2 # 130 # -1 # ID=767_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.481
+HHLSSYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTALTAP
+>NODE_768_length_130_cov_53749.666667_1 # 2 # 130 # -1 # ID=768_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.457
+EHHLSSYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTALTA
+>NODE_769_length_130_cov_53622.000000_1 # 1 # 129 # -1 # ID=769_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.488
+LSSYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTALTAPVC
+>NODE_770_length_130_cov_52938.333333_1 # 3 # 128 # -1 # ID=770_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.468
+GMEHHLSSYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTA
+>NODE_771_length_130_cov_52455.666667_1 # 3 # 116 # -1 # ID=771_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.430
+MGMEHHLSSYLSLSSDVIHRVYSYRVKNTSNNSTGRPS
+>NODE_772_length_130_cov_50428.333333_1 # 2 # 130 # -1 # ID=772_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.473
+SSDVIHRVYSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTP
+>NODE_773_length_130_cov_46951.333333_1 # 3 # 128 # -1 # ID=773_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.484
+HRVYSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPLNWS
+>NODE_774_length_130_cov_41835.666667_1 # 3 # 128 # -1 # ID=774_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.500
+YRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPLNWSTMWKG
+>NODE_775_length_130_cov_33127.666667_1 # 3 # 128 # -1 # ID=775_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.500
+NSTGRPSLASTALTAPVCKYNFFTPLNWSTMWKGLGFLTRRI
+>NODE_776_length_130_cov_22440.000000_1 # 3 # 128 # -1 # ID=776_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.675
+LAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTAR
+>NODE_777_length_130_cov_20542.000000_1 # 2 # 130 # -1 # ID=777_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.651
+QLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTY
+>NODE_778_length_130_cov_20399.666667_1 # 3 # 128 # -1 # ID=778_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.659
+LPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYL
+>NODE_779_length_130_cov_16001.666667_1 # 6 # 128 # -1 # ID=779_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.642
+KTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_780_length_130_cov_14122.666667_1 # 11 # 130 # -1 # ID=780_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.633
+TKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_781_length_130_cov_9376.000000_1 # 38 # 130 # -1 # ID=781_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.634
+PKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_782_length_130_cov_5735.333333_1 # 63 # 128 # -1 # ID=782_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.606
+MVPGSRSTRTARGTYLLPLAC*
+>NODE_787_length_130_cov_1032.000000_1 # 20 # 130 # 1 # ID=787_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.649
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRS
+>NODE_788_length_130_cov_1007.000000_1 # 17 # 130 # 1 # ID=788_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.649
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRST
+>NODE_789_length_130_cov_984.333333_1 # 1 # 117 # -1 # ID=789_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.650
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTR
+>NODE_790_length_130_cov_803.666667_1 # 3 # 128 # 1 # ID=790_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.651
+LPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYL
+>NODE_791_length_130_cov_705.000000_1 # 3 # 125 # 1 # ID=791_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.642
+KTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_792_length_130_cov_682.000000_1 # 2 # 130 # 1 # ID=792_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.651
+DWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC
+>NODE_793_length_130_cov_576.000000_1 # 6 # 128 # -1 # ID=793_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.634
+KTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_794_length_130_cov_540.666667_1 # 3 # 128 # 1 # ID=794_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.500
+HRVYSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPPNWS
+>NODE_795_length_130_cov_515.666667_1 # 11 # 130 # -1 # ID=795_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.625
+TKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_796_length_130_cov_482.333333_1 # 2 # 130 # -1 # ID=796_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.651
+APDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPP
+>NODE_797_length_130_cov_473.666667_1 # 2 # 130 # -1 # ID=797_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+PDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPPA
+>NODE_798_length_130_cov_472.333333_1 # 3 # 128 # 1 # ID=798_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.468
+MEHHLSSYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTAL
+>NODE_799_length_130_cov_463.000000_1 # 2 # 130 # 1 # ID=799_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+DWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGPYLLPLAC
+>NODE_800_length_130_cov_422.333333_1 # 2 # 130 # -1 # ID=800_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+PDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLA
+>NODE_801_length_130_cov_416.333333_1 # 2 # 130 # -1 # ID=801_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.674
+PDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLA
+>NODE_802_length_130_cov_403.666667_1 # 2 # 130 # -1 # ID=802_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.674
+PDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLA
+>NODE_803_length_130_cov_366.666667_1 # 1 # 111 # -1 # ID=803_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRS
+>NODE_804_length_130_cov_365.333333_1 # 1 # 117 # -1 # ID=804_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.658
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTR
+>NODE_805_length_130_cov_314.333333_1 # 1 # 108 # 1 # ID=805_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+GRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_806_length_130_cov_295.333333_1 # 3 # 125 # -1 # ID=806_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTA
+>NODE_807_length_130_cov_285.000000_1 # 1 # 129 # -1 # ID=807_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.651
+WPKTKLSGRKSWPKGPARPASMVPGSRSTRTARGTYLLPLAC*
+>NODE_808_length_130_cov_271.000000_1 # 3 # 128 # -1 # ID=808_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.651
+TLAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTA
+>NODE_809_length_130_cov_242.000000_1 # 1 # 129 # -1 # ID=809_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.643
+DWTKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC
+>NODE_810_length_130_cov_238.666667_1 # 18 # 128 # 1 # ID=810_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.649
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRS
+>NODE_811_length_130_cov_229.000000_1 # 2 # 130 # 1 # ID=811_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.643
+WTKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_812_length_130_cov_185.000000_1 # 1 # 129 # 1 # ID=812_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.659
+PDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYFLPLA
+>NODE_813_length_130_cov_178.666667_1 # 2 # 130 # 1 # ID=813_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.659
+WPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_814_length_130_cov_175.333333_1 # 3 # 128 # -1 # ID=814_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+AQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARG
+>NODE_815_length_130_cov_165.333333_1 # 1 # 111 # 1 # ID=815_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.676
+SGRKSWPKGPARPASMVPGSRSTRTARGTYLLPLAC*
+>NODE_816_length_130_cov_160.666667_1 # 1 # 108 # 1 # ID=816_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.676
+GRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_817_length_130_cov_151.333333_1 # 3 # 128 # 1 # ID=817_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.651
+LPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYL
+>NODE_819_length_130_cov_137.333333_1 # 1 # 111 # -1 # ID=819_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRS
+>NODE_820_length_130_cov_133.666667_1 # 15 # 128 # 1 # ID=820_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.421
+MWMEHHLSSYLSLSSDVIHRVYSYRVKNTSNNSTGRPS
+>NODE_821_length_130_cov_128.000000_1 # 11 # 130 # -1 # ID=821_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.642
+TTLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_822_length_130_cov_121.666667_1 # 39 # 128 # -1 # ID=822_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.656
+KGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_823_length_130_cov_92.000000_1 # 1 # 129 # 1 # ID=823_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+QLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTY
+>NODE_824_length_130_cov_61.666667_1 # 1 # 129 # 1 # ID=824_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.496
+SAVIHRVYSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPL
+>NODE_826_length_130_cov_14.000000_1 # 3 # 128 # 1 # ID=826_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+TLAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTA
+>NODE_827_length_130_cov_6.333333_1 # 23 # 130 # -1 # ID=827_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.639
+GRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_828_length_130_cov_5.000000_1 # 1 # 129 # 1 # ID=828_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.674
+APDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPP
+>NODE_829_length_129_cov_53850.500000_1 # 2 # 127 # -1 # ID=829_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.468
+EHHLSSYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTALT
+>NODE_830_length_129_cov_53537.000000_1 # 1 # 129 # -1 # ID=830_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.481
+HLSSYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTALTAPV
+>NODE_831_length_129_cov_52971.000000_1 # 1 # 129 # -1 # ID=831_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.481
+SYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTALTAPVCKY
+>NODE_832_length_129_cov_52754.000000_1 # 2 # 112 # -1 # ID=832_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.432
+MGMEHHLSSYLSLSSDVIHRVYSYRVKNTSNNSTGRP
+>NODE_833_length_129_cov_52401.500000_1 # 3 # 128 # -1 # ID=833_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.444
+ATGLGMEHHLSSYLSLSSDVIHRVYSYRVKNTSNNSTGRPSL
+>NODE_834_length_129_cov_52010.000000_1 # 31 # 129 # 1 # ID=834_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.414
+MGMEHHLSSYLSLSSDVIHRVYSYRVKNTSNNS
+>NODE_835_length_129_cov_51829.000000_1 # 33 # 128 # 1 # ID=835_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.417
+MGMEHHLSSYLSLSSDVIHRVYSYRVKNTSNN
+>NODE_836_length_129_cov_51363.500000_1 # 3 # 128 # -1 # ID=836_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.484
+LSSDVIHRVYSYRVKNTSNNSTGRPSLASTALTAPVCKYNFF
+>NODE_837_length_129_cov_51332.500000_1 # 35 # 127 # 1 # ID=837_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.419
+MGMEHHLSSYLSLSSDVIHRVYSYRVKNTSN
+>NODE_838_length_129_cov_50761.000000_1 # 2 # 127 # -1 # ID=838_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.476
+SSDVIHRVYSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFT
+>NODE_839_length_129_cov_49262.500000_1 # 2 # 127 # -1 # ID=839_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.492
+DVIHRVYSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPL
+>NODE_840_length_129_cov_48373.000000_1 # 1 # 129 # -1 # ID=840_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.473
+DVIHRVYSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPLN
+>NODE_841_length_129_cov_43288.500000_1 # 3 # 128 # -1 # ID=841_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.468
+SYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPLNWSTMWK
+>NODE_842_length_129_cov_34503.500000_1 # 3 # 128 # -1 # ID=842_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.500
+NNSTGRPSLASTALTAPVCKYNFFTPLNWSTMWKGLGFLTRR
+>NODE_843_length_129_cov_32617.000000_1 # 2 # 127 # -1 # ID=843_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.516
+STGRPSLASTALTAPVCKYNFFTPLNWSTMWKGLGFLTRRIV
+>NODE_844_length_129_cov_32020.500000_1 # 1 # 129 # -1 # ID=844_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.504
+STGRPSLASTALTAPVCKYNFFTPLNWSTMWKGLGFLTRRIVT
+>NODE_845_length_129_cov_31260.000000_1 # 3 # 128 # -1 # ID=845_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.508
+TGRPSLASTALTAPVCKYNFFTPLNWSTMWKGLGFLTRRIVT
+>NODE_846_length_129_cov_30333.500000_1 # 2 # 127 # -1 # ID=846_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.508
+GRPSLASTALTAPVCKYNFFTPLNWSTMWKGLGFLTRRIVTM
+>NODE_847_length_129_cov_23253.000000_1 # 1 # 129 # -1 # ID=847_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.512
+LASTALTAPVCKYNFFTPLNWSTMWKGLGFLTRRIVTMAPPTS
+>NODE_848_length_129_cov_22431.000000_1 # 3 # 113 # -1 # ID=848_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRS
+>NODE_849_length_129_cov_22252.000000_1 # 1 # 117 # -1 # ID=849_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.658
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTR
+>NODE_850_length_129_cov_22118.000000_1 # 2 # 124 # -1 # ID=850_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.659
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTA
+>NODE_851_length_129_cov_21386.000000_1 # 2 # 127 # -1 # ID=851_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.516
+STALTAPVCKYNFFTPLNWSTMWKGLGFLTRRIVTMAPPTSS
+>NODE_852_length_129_cov_21245.500000_1 # 3 # 128 # -1 # ID=852_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.675
+AQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARG
+>NODE_853_length_129_cov_20491.000000_1 # 2 # 127 # -1 # ID=853_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+QLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGT
+>NODE_854_length_129_cov_18865.000000_1 # 2 # 127 # -1 # ID=854_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.651
+PDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPL
+>NODE_855_length_129_cov_18846.500000_1 # 1 # 129 # -1 # ID=855_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+PDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLA
+>NODE_856_length_129_cov_18551.000000_1 # 1 # 129 # -1 # ID=856_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.643
+DWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC
+>NODE_857_length_129_cov_17874.000000_1 # 3 # 128 # -1 # ID=857_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.651
+WPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC
+>NODE_858_length_129_cov_16391.500000_1 # 3 # 128 # -1 # ID=858_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.643
+PKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_859_length_129_cov_12637.000000_1 # 17 # 127 # -1 # ID=859_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.658
+SGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_860_length_129_cov_12078.500000_1 # 19 # 129 # -1 # ID=860_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.649
+SGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_861_length_129_cov_11301.500000_1 # 25 # 129 # -1 # ID=861_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.638
+RKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_862_length_129_cov_11074.000000_1 # 27 # 128 # -1 # ID=862_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.637
+KSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_863_length_129_cov_10341.000000_1 # 32 # 127 # -1 # ID=863_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.656
+WPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_864_length_129_cov_6761.000000_1 # 56 # 127 # -1 # ID=864_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.625
+ASMVPGSRSTRTARGTYLLPLAC*
+>NODE_870_length_129_cov_1262.500000_1 # 3 # 128 # -1 # ID=870_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.500
+NNSTGRPSLASTALTAPVCKYNFFTPLNWSTMWKGLGFLTRR
+>NODE_873_length_129_cov_880.500000_1 # 3 # 128 # -1 # ID=873_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+AQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARG
+>NODE_874_length_129_cov_849.500000_1 # 2 # 127 # -1 # ID=874_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.659
+QLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGT
+>NODE_875_length_129_cov_742.000000_1 # 3 # 128 # -1 # ID=875_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.643
+PKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_876_length_129_cov_655.000000_1 # 3 # 128 # -1 # ID=876_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.643
+WPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC
+>NODE_877_length_129_cov_638.000000_1 # 13 # 129 # -1 # ID=877_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.632
+KLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_878_length_129_cov_634.000000_1 # 1 # 129 # -1 # ID=878_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.481
+DVIHRVYSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPLT
+>NODE_879_length_129_cov_609.500000_1 # 6 # 128 # 1 # ID=879_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTA
+>NODE_880_length_129_cov_593.500000_1 # 3 # 128 # -1 # ID=880_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.635
+PKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_881_length_129_cov_483.000000_1 # 13 # 129 # -1 # ID=881_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.624
+KLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_882_length_129_cov_476.500000_1 # 1 # 129 # 1 # ID=882_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.674
+PDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGPYLLPLA
+>NODE_883_length_129_cov_455.000000_1 # 17 # 127 # -1 # ID=883_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.649
+SGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_884_length_129_cov_435.000000_1 # 19 # 129 # -1 # ID=884_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.640
+SGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_885_length_129_cov_420.000000_1 # 2 # 127 # -1 # ID=885_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.659
+PDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPL
+>NODE_886_length_129_cov_419.500000_1 # 3 # 128 # -1 # ID=886_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.683
+AQLLPAPDWPKTKLSGRKSWPKGPARPASMVPGSRSTRTARG
+>NODE_887_length_129_cov_398.000000_1 # 2 # 127 # -1 # ID=887_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.675
+QLLPAPDWPKTKLSGRKSWPKGPARPASMVPGSRSTRTARGT
+>NODE_888_length_129_cov_367.000000_1 # 2 # 127 # 1 # ID=888_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.690
+AQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARG
+>NODE_889_length_129_cov_363.000000_1 # 17 # 127 # 1 # ID=889_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.658
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRS
+>NODE_890_length_129_cov_352.500000_1 # 3 # 128 # 1 # ID=890_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.675
+QLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGT
+>NODE_891_length_129_cov_279.500000_1 # 3 # 128 # -1 # ID=891_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.683
+AQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSSSTRTARG
+>NODE_892_length_129_cov_246.500000_1 # 1 # 129 # -1 # ID=892_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.674
+PDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTSLLPLA
+>NODE_893_length_129_cov_240.500000_1 # 20 # 127 # 1 # ID=893_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.648
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSR
+>NODE_894_length_129_cov_227.500000_1 # 2 # 127 # 1 # ID=894_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.690
+AQLLPAPDWPKTKLSGRKSWPTGPARTASMVPGSRSTRTARG
+>NODE_895_length_129_cov_224.500000_1 # 2 # 127 # 1 # ID=895_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.690
+AQLLPAPDWPKTTLSGRKSWPKGPARTASMVPGSRSTRTARG
+>NODE_896_length_129_cov_224.500000_1 # 2 # 115 # 1 # ID=896_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+LSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPPAC*
+>NODE_897_length_129_cov_220.000000_1 # 1 # 117 # 1 # ID=897_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.658
+KLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_898_length_129_cov_216.500000_1 # 2 # 127 # -1 # ID=898_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.675
+QLLPAPDWPKTKLSGRKSWPTGPARTASMVPGSRSTRTARGT
+>NODE_899_length_129_cov_215.000000_1 # 15 # 128 # -1 # ID=899_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.658
+LSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_900_length_129_cov_211.000000_1 # 3 # 128 # -1 # ID=900_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.635
+TKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_901_length_129_cov_209.500000_1 # 3 # 128 # -1 # ID=901_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.683
+AQLLPAPDWPKTKLSGRQSWPKGPARTASMVPGSRSTRTARG
+>NODE_902_length_129_cov_207.500000_1 # 2 # 115 # 1 # ID=902_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+LSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_903_length_129_cov_200.500000_1 # 1 # 117 # 1 # ID=903_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.658
+KLSGRKSWPKGPARPASMVPGSRSTRTARGTYLLPLAC*
+>NODE_904_length_129_cov_193.500000_1 # 1 # 108 # 1 # ID=904_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.676
+GRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_905_length_129_cov_156.500000_1 # 2 # 103 # 1 # ID=905_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.647
+KSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_906_length_129_cov_156.500000_1 # 2 # 127 # 1 # ID=906_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+WPKTKLSGRKSWPTGPARTASMVPGSRSTRTARGTYLLPLAC
+>NODE_907_length_129_cov_149.000000_1 # 1 # 129 # 1 # ID=907_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.504
+HLPSYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTALTAPV
+>NODE_908_length_129_cov_137.000000_1 # 23 # 127 # -1 # ID=908_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.657
+RKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_909_length_129_cov_134.000000_1 # 8 # 127 # -1 # ID=909_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.650
+TKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_910_length_129_cov_130.000000_1 # 34 # 129 # -1 # ID=910_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.635
+WPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_911_length_129_cov_127.500000_1 # 6 # 128 # 1 # ID=911_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.659
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTA
+>NODE_912_length_129_cov_119.500000_1 # 13 # 129 # -1 # ID=912_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.641
+TLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_913_length_129_cov_118.000000_1 # 14 # 127 # -1 # ID=913_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.412
+FTATGLGMEHHLSSYLSLSSDVIHRVYSYRVKNTSNN*
+>NODE_914_length_129_cov_110.500000_1 # 2 # 127 # 1 # ID=914_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.690
+AQLLPAPDWPKTKLSGRTSWPKGPARTASMVPGSRSTRTARG
+>NODE_915_length_129_cov_108.000000_1 # 2 # 127 # -1 # ID=915_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.659
+PDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPL
+>NODE_916_length_129_cov_106.000000_1 # 3 # 122 # 1 # ID=916_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.658
+TKLSGRQSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_917_length_129_cov_102.500000_1 # 13 # 129 # -1 # ID=917_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.624
+KLSGRKSWPKGPARTASMVPGSRSTRTARGTYFLPLAC*
+>NODE_918_length_129_cov_95.500000_1 # 2 # 127 # -1 # ID=918_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.675
+QLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGT
+>NODE_920_length_129_cov_74.000000_1 # 2 # 103 # 1 # ID=920_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.657
+QSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_921_length_129_cov_57.000000_1 # 1 # 129 # -1 # ID=921_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.481
+AVIHRVYSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPLN
+>NODE_923_length_129_cov_48.500000_1 # 2 # 127 # 1 # ID=923_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.683
+AHLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARG
+>NODE_925_length_129_cov_9.000000_1 # 2 # 127 # 1 # ID=925_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.643
+TKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_926_length_129_cov_9.000000_1 # 2 # 127 # -1 # ID=926_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+PDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPL
+>NODE_927_length_129_cov_9.000000_1 # 13 # 129 # -1 # ID=927_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.641
+TLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_928_length_129_cov_9.000000_1 # 6 # 128 # 1 # ID=928_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTA
+>NODE_929_length_129_cov_8.500000_1 # 23 # 127 # -1 # ID=929_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.648
+RKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_930_length_129_cov_7.000000_1 # 2 # 109 # -1 # ID=930_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSR
+>NODE_932_length_129_cov_5.000000_1 # 23 # 127 # -1 # ID=932_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.657
+RKSWPKGPARTASMVPGSRSTRTARGTSLLPLAC*
+>NODE_933_length_129_cov_4.000000_1 # 1 # 129 # 1 # ID=933_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.496
+AVIHRVYSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPLT
+>NODE_934_length_129_cov_4.000000_1 # 2 # 103 # 1 # ID=934_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.657
+QSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_935_length_128_cov_53473.000000_1 # 2 # 127 # -1 # ID=935_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.492
+SSYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTALTAPVC
+>NODE_936_length_128_cov_53266.000000_1 # 1 # 126 # -1 # ID=936_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.492
+SYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTALTAPVCK
+>NODE_937_length_128_cov_53180.000000_1 # 3 # 128 # -1 # ID=937_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.484
+SSYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTALTAPVC
+>NODE_938_length_128_cov_53081.000000_1 # 2 # 127 # -1 # ID=938_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.484
+SYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTALTAPVCK
+>NODE_939_length_128_cov_52964.000000_1 # 3 # 113 # -1 # ID=939_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.432
+MGMEHHLSSYLSLSSDVIHRVYSYRVKNTSNNSTGRP
+>NODE_940_length_128_cov_52734.000000_1 # 2 # 127 # -1 # ID=940_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.484
+YLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTALTAPVCKY
+>NODE_941_length_128_cov_52437.000000_1 # 3 # 128 # -1 # ID=941_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.476
+YLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTALTAPVCKY
+>NODE_942_length_128_cov_52424.000000_1 # 1 # 126 # -1 # ID=942_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.452
+ATGLGMEHHLSSYLSLSSDVIHRVYSYRVKNTSNNSTGRPSL
+>NODE_943_length_128_cov_52417.000000_1 # 1 # 126 # -1 # ID=943_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.460
+TGLGMEHHLSSYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLA
+>NODE_944_length_128_cov_52350.000000_1 # 1 # 126 # -1 # ID=944_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.484
+LSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTALTAPVCKYN
+>NODE_945_length_128_cov_50077.000000_1 # 41 # 127 # 1 # ID=945_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.425
+MGMEHHLSSYLSLSSDVIHRVYSYRVKNT
+>NODE_946_length_128_cov_49551.000000_1 # 3 # 128 # -1 # ID=946_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.476
+SDVIHRVYSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTP
+>NODE_947_length_128_cov_46144.000000_1 # 1 # 126 # -1 # ID=947_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.484
+RVYSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPLNWST
+>NODE_948_length_128_cov_45067.000000_1 # 1 # 126 # -1 # ID=948_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.476
+YSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPLNWSTMW
+>NODE_949_length_128_cov_44491.000000_1 # 2 # 127 # -1 # ID=949_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.476
+YSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPLNWSTMW
+>NODE_950_length_128_cov_43982.000000_1 # 3 # 128 # -1 # ID=950_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.476
+YSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPLNWSTMW
+>NODE_951_length_128_cov_43319.000000_1 # 1 # 126 # -1 # ID=951_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.468
+SYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTPLNWSTMWK
+>NODE_952_length_128_cov_36365.000000_1 # 1 # 126 # -1 # ID=952_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.508
+NNSTGRPSLASTALTAPVCKYNFFTPLNWSTMWKGLGFLTRR
+>NODE_953_length_128_cov_29488.000000_1 # 3 # 128 # -1 # ID=953_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.500
+GRPSLASTALTAPVCKYNFFTPLNWSTMWKGLGFLTRRIVTM
+>NODE_954_length_128_cov_23713.000000_1 # 2 # 127 # -1 # ID=954_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.508
+LASTALTAPVCKYNFFTPLNWSTMWKGLGFLTRRIVTMAPPT
+>NODE_955_length_128_cov_22448.000000_1 # 2 # 127 # -1 # ID=955_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.516
+ASTALTAPVCKYNFFTPLNWSTMWKGLGFLTRRIVTMAPPTS
+>NODE_956_length_128_cov_22440.000000_1 # 1 # 114 # -1 # ID=956_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.658
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRST
+>NODE_957_length_128_cov_22303.000000_1 # 1 # 111 # -1 # ID=957_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRS
+>NODE_958_length_128_cov_22278.000000_1 # 1 # 126 # -1 # ID=958_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.675
+AQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARG
+>NODE_959_length_128_cov_22252.000000_1 # 3 # 125 # -1 # ID=959_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.659
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTA
+>NODE_960_length_128_cov_22224.000000_1 # 3 # 110 # -1 # ID=960_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.657
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSR
+>NODE_961_length_128_cov_22140.000000_1 # 2 # 118 # -1 # ID=961_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.658
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTR
+>NODE_962_length_128_cov_22102.000000_1 # 2 # 115 # -1 # ID=962_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.658
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRST
+>NODE_963_length_128_cov_22079.000000_1 # 3 # 128 # -1 # ID=963_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.508
+ASTALTAPVCKYNFFTPLNWSTMWKGLGFLTRRIVTMAPPTS
+>NODE_964_length_128_cov_21254.000000_1 # 2 # 109 # -1 # ID=964_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.657
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSR
+>NODE_965_length_128_cov_20839.000000_1 # 3 # 128 # -1 # ID=965_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.651
+LLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTY
+>NODE_966_length_128_cov_20691.000000_1 # 1 # 126 # 1 # ID=966_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.516
+STALTAPVCKYNFFTPLNWSTMWKGLGFLTRRIVTMAPPTSS
+>NODE_967_length_128_cov_19610.000000_1 # 3 # 128 # -1 # ID=967_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+APDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLP
+>NODE_968_length_128_cov_18715.000000_1 # 2 # 127 # -1 # ID=968_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+DWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLA
+>NODE_969_length_128_cov_17332.000000_1 # 1 # 126 # -1 # ID=969_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.651
+PKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_970_length_128_cov_15171.000000_1 # 7 # 126 # -1 # ID=970_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.642
+TKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_971_length_128_cov_14638.000000_1 # 8 # 127 # -1 # ID=971_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.642
+TKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_972_length_128_cov_13281.000000_1 # 12 # 128 # -1 # ID=972_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.632
+KLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_973_length_128_cov_13172.000000_1 # 13 # 126 # -1 # ID=973_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.649
+LSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_974_length_128_cov_12929.000000_1 # 14 # 127 # -1 # ID=974_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.649
+LSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_975_length_128_cov_12800.000000_1 # 15 # 128 # -1 # ID=975_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.640
+LSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_976_length_128_cov_11952.000000_1 # 20 # 127 # -1 # ID=976_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.657
+GRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_977_length_128_cov_11509.000000_1 # 21 # 128 # -1 # ID=977_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.648
+GRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_978_length_128_cov_11204.000000_1 # 22 # 126 # -1 # ID=978_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.657
+RKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_979_length_128_cov_10961.000000_1 # 23 # 127 # -1 # ID=979_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.648
+RKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_980_length_128_cov_10922.000000_1 # 28 # 126 # -1 # ID=980_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.646
+SWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_981_length_128_cov_10865.000000_1 # 29 # 127 # -1 # ID=981_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.646
+SWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_982_length_128_cov_10589.000000_1 # 30 # 128 # -1 # ID=982_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.636
+SWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_983_length_128_cov_10088.000000_1 # 33 # 128 # -1 # ID=983_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.635
+WPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_984_length_128_cov_9903.000000_1 # 34 # 126 # -1 # ID=984_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.656
+PKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_985_length_128_cov_9737.000000_1 # 35 # 127 # -1 # ID=985_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.645
+PKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_986_length_128_cov_8885.000000_1 # 39 # 128 # -1 # ID=986_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.622
+KGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_987_length_128_cov_8768.000000_1 # 40 # 126 # -1 # ID=987_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.644
+GPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_988_length_128_cov_7664.000000_1 # 49 # 126 # -1 # ID=988_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.628
+RTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_989_length_128_cov_7413.000000_1 # 50 # 127 # -1 # ID=989_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.615
+RTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_993_length_128_cov_958.000000_1 # 20 # 127 # 1 # ID=993_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.657
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSR
+>NODE_995_length_128_cov_729.000000_1 # 1 # 126 # 1 # ID=995_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.659
+APDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLP
+>NODE_996_length_128_cov_646.000000_1 # 1 # 126 # 1 # ID=996_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.484
+SDVIHRVYSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTP
+>NODE_997_length_128_cov_635.000000_1 # 1 # 126 # -1 # ID=997_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.643
+PKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_998_length_128_cov_613.000000_1 # 3 # 125 # -1 # ID=998_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTA
+>NODE_999_length_128_cov_542.000000_1 # 3 # 122 # 1 # ID=999_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.642
+TKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_1000_length_128_cov_530.000000_1 # 2 # 121 # 1 # ID=1000_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.642
+TKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_1001_length_128_cov_472.000000_1 # 14 # 127 # -1 # ID=1001_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.640
+LSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_1002_length_128_cov_466.000000_1 # 1 # 114 # 1 # ID=1002_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.649
+LSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_1003_length_128_cov_426.000000_1 # 2 # 109 # 1 # ID=1003_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.657
+GRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_1004_length_128_cov_423.000000_1 # 11 # 127 # 1 # ID=1004_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.658
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTR
+>NODE_1005_length_128_cov_410.000000_1 # 21 # 128 # -1 # ID=1005_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.639
+GRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_1006_length_128_cov_397.000000_1 # 3 # 107 # 1 # ID=1006_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.657
+RKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_1007_length_128_cov_393.000000_1 # 1 # 126 # -1 # ID=1007_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.492
+LSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTALTAPVCKYN
+>NODE_1008_length_128_cov_386.000000_1 # 23 # 127 # -1 # ID=1008_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.638
+RKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_1009_length_128_cov_382.000000_1 # 3 # 101 # 1 # ID=1009_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.657
+SWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_1010_length_128_cov_366.000000_1 # 1 # 114 # -1 # ID=1010_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.658
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRST
+>NODE_1011_length_128_cov_328.000000_1 # 48 # 128 # -1 # ID=1011_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.506
+DSYNGTSDLQLERMNVYFNEVRSHRP*
+>NODE_1012_length_128_cov_318.000000_1 # 1 # 126 # 1 # ID=1012_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.675
+APDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLP
+>NODE_1013_length_128_cov_305.000000_1 # 1 # 126 # 1 # ID=1013_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.492
+SSYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTALTAPVC
+>NODE_1014_length_128_cov_290.000000_1 # 13 # 126 # -1 # ID=1014_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.658
+LSGRKSWPKGPARTASMVPGSRSTRTARGPYLLPLAC*
+>NODE_1015_length_128_cov_280.000000_1 # 3 # 89 # 1 # ID=1015_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.655
+GPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_1016_length_128_cov_273.000000_1 # 3 # 128 # 1 # ID=1016_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.659
+PKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_1017_length_128_cov_261.000000_1 # 1 # 126 # -1 # ID=1017_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.468
+TGLGMDHHLSSYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLA
+>NODE_1018_length_128_cov_255.000000_1 # 2 # 127 # 1 # ID=1018_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.524
+LASTALTAPVCKYNFFTPLNWSTMWKGLGFLTRRIVTMAPPT
+>NODE_1019_length_128_cov_214.000000_1 # 28 # 126 # -1 # ID=1019_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.657
+SWPKGPARTASMVPGSRSTRTARGPYLLPLAC*
+>NODE_1020_length_128_cov_213.000000_1 # 1 # 126 # -1 # ID=1020_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.659
+PKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTSLLPLAC*
+>NODE_1021_length_128_cov_203.000000_1 # 1 # 126 # 1 # ID=1021_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.675
+APDWPKTTLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLP
+>NODE_1022_length_128_cov_202.000000_1 # 11 # 127 # 1 # ID=1022_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.658
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTR
+>NODE_1023_length_128_cov_191.000000_1 # 2 # 106 # 1 # ID=1023_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.657
+RKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_1024_length_128_cov_190.000000_1 # 2 # 109 # -1 # ID=1024_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSR
+>NODE_1025_length_128_cov_171.000000_1 # 1 # 126 # -1 # ID=1025_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.659
+PKTTLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_1026_length_128_cov_165.000000_1 # 34 # 126 # -1 # ID=1026_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+PKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_1027_length_128_cov_162.000000_1 # 1 # 126 # 1 # ID=1027_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.651
+AQDWTKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLP
+>NODE_1028_length_128_cov_151.000000_1 # 3 # 128 # -1 # ID=1028_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.492
+PSYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTALTAPVC
+>NODE_1029_length_128_cov_149.000000_1 # 1 # 126 # -1 # ID=1029_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.659
+PKTKLSGRKSWPTGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_1030_length_128_cov_136.000000_1 # 1 # 126 # 1 # ID=1030_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+LLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTY
+>NODE_1031_length_128_cov_135.000000_1 # 1 # 126 # -1 # ID=1031_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.659
+PKTKLSGRQSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_1032_length_128_cov_125.000000_1 # 3 # 128 # 1 # ID=1032_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.675
+AQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARG
+>NODE_1033_length_128_cov_119.000000_1 # 35 # 127 # -1 # ID=1033_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.656
+PKGPARPASMVPGSRSTRTARGTYLLPLAC*
+>NODE_1034_length_128_cov_118.000000_1 # 1 # 126 # 1 # ID=1034_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.675
+APDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLP
+>NODE_1035_length_128_cov_117.000000_1 # 1 # 126 # 1 # ID=1035_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.659
+APDWPKTKLSGRKSWPKGPARTASMVPGSRSTRTARGTYLLP
+>NODE_1036_length_128_cov_114.000000_1 # 40 # 126 # -1 # ID=1036_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.655
+GPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_1037_length_128_cov_112.000000_1 # 1 # 126 # -1 # ID=1037_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.587
+GPARTASMVPGSRSTRTARGTYLLPLACCSGQDIDDIVVKKL
+>NODE_1038_length_128_cov_94.000000_1 # 1 # 126 # -1 # ID=1038_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.659
+PKTKLSGRKSWPQGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_1039_length_128_cov_82.000000_1 # 1 # 108 # -1 # ID=1039_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.657
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSR
+>NODE_1040_length_128_cov_60.000000_1 # 2 # 109 # -1 # ID=1040_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.657
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSR
+>NODE_1041_length_128_cov_45.000000_1 # 2 # 127 # 1 # ID=1041_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.524
+LASTALTAPVCKYNFFTPLNWSTMWKGLGFLTRRIVTMAPPT
+>NODE_1042_length_128_cov_37.000000_1 # 11 # 127 # 1 # ID=1042_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.658
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTR
+>NODE_1043_length_128_cov_14.000000_1 # 1 # 108 # -1 # ID=1043_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.657
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSR
+>NODE_1044_length_128_cov_13.000000_1 # 1 # 126 # 1 # ID=1044_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.492
+PDVIHRVYSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTP
+>NODE_1045_length_128_cov_8.000000_1 # 23 # 127 # -1 # ID=1045_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.638
+RKSWPKGPARTASMVPGSRSTRTARGTYLLPLAC*
+>NODE_1046_length_128_cov_6.000000_1 # 2 # 127 # -1 # ID=1046_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.516
+LASTALTAPVCKYNFFTPLNWSTMWKGLGFLTRRIVTMAPPT
+>NODE_1047_length_128_cov_5.000000_1 # 2 # 109 # -1 # ID=1047_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.657
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSR
+>NODE_1048_length_128_cov_5.000000_1 # 11 # 127 # 1 # ID=1048_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.658
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTR
+>NODE_1049_length_128_cov_5.000000_1 # 3 # 128 # -1 # ID=1049_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.492
+PSYLSLSSDVIHRVYSYRVKNTSNNSTGRPSLASTALTAPVC
+>NODE_1050_length_128_cov_4.000000_1 # 11 # 127 # 1 # ID=1050_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.658
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSRSTR
+>NODE_1051_length_128_cov_4.000000_1 # 3 # 128 # -1 # ID=1051_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.484
+PDVIHRVYSYRVKNTSNNSTGRPSLASTALTAPVCKYNFFTP
+>NODE_1052_length_128_cov_2.000000_1 # 1 # 108 # -1 # ID=1052_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.657
+MAQLLPAPDWPKTKLSGRKSWPKGPARTASMVPGSR
